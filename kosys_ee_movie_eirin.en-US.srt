@@ -1,0 +1,3430 @@
+1
+00:00:34,290 --> 00:00:40,250
+Once upon a time, there was a railway company that kept using XP.
+
+2
+00:00:40,990 --> 00:00:43,990
+It's been a year since XP's support expired!
+
+3
+00:00:44,750 --> 00:00:45,990
+We need to replace it immediately!
+
+4
+00:00:46,820 --> 00:00:49,770
+But it still works, doesn't it?
+
+5
+00:00:50,030 --> 00:00:51,770
+Ah, right. That's our company motto.
+
+6
+00:00:52,730 --> 00:00:56,110
+Mottainai — fix it and it'll run forever.
+
+7
+00:00:57,090 --> 00:00:59,316
+But we don't have any money.
+
+8
+00:00:59,685 --> 00:01:01,676
+We're at our limit here!
+
+9
+00:01:02,205 --> 00:01:03,870
+*sigh*...
+
+10
+00:01:04,580 --> 00:01:06,830
+Let's just hope nothing happens...
+
+11
+00:01:08,960 --> 00:01:12,193
+Waaah! Akane!
+
+12
+00:01:12,313 --> 00:01:13,496
+It happened.
+
+13
+00:01:15,560 --> 00:01:16,560
+Report!
+
+14
+00:01:17,290 --> 00:01:20,170
+We're being flooded with virus infection reports!
+
+15
+00:01:20,830 --> 00:01:23,350
+PR department, Sales, International Affairs—
+
+16
+00:01:23,630 --> 00:01:24,937
+Everywhere except our division.
+
+17
+00:01:28,163 --> 00:01:29,213
+What's the cause?
+
+18
+00:01:29,355 --> 00:01:30,430
+Someone in PR.
+
+19
+00:01:31,800 --> 00:01:35,786
+They fell for a fake website
+that told them their computer was infected,
+
+20
+00:01:35,906 --> 00:01:38,450
+and installed a fake antivirus program.
+
+21
+00:01:40,850 --> 00:01:43,890
+Which, of course, was itself the virus.
+
+22
+00:01:44,690 --> 00:01:46,265
+But with it spreading this much—
+
+23
+00:01:46,289 --> 00:01:48,950
+Why hasn't our division been infected?
+
+24
+00:01:49,990 --> 00:01:52,010
+Because we're running Windows 7 and Linux.
+
+25
+00:01:52,510 --> 00:01:55,830
+Indeed, only the XP machines seem to be affected.
+
+26
+00:02:03,000 --> 00:02:04,053
+What the—!
+
+27
+00:02:11,280 --> 00:02:12,610
+A hacker prank?
+
+28
+00:02:16,530 --> 00:02:17,840
+Is the CTC server safe?!
+
+29
+00:02:18,260 --> 00:02:20,680
+If it's compromised, the signal system could—
+
+30
+00:02:20,855 --> 00:02:21,900
+It's fine.
+
+31
+00:02:22,740 --> 00:02:24,740
+It's so old that the virus doesn't affect it.
+
+32
+00:02:25,983 --> 00:02:28,540
+20th-century technology, by the looks of it.
+
+33
+00:02:29,340 --> 00:02:30,446
+Fascinating.
+
+34
+00:02:34,313 --> 00:02:37,330
+Cause a service disruption.
+
+35
+00:02:39,143 --> 00:02:40,903
+Oi, you got here too fast!
+
+36
+00:02:41,010 --> 00:02:42,130
+We're completely cornered!
+
+37
+00:02:42,296 --> 00:02:45,899
+Aaargh! Aaargh! Aaargh!
+
+38
+00:02:49,820 --> 00:02:52,856
+...We need to disconnect from the internet.
+
+39
+00:02:54,513 --> 00:02:55,786
+Let's move, people!
+
+40
+00:02:56,353 --> 00:02:57,530
+Absolutely not!
+
+41
+00:02:58,030 --> 00:02:59,030
+CIO!
+
+42
+00:02:59,350 --> 00:03:00,690
+Do you realize the losses?
+
+43
+00:03:01,270 --> 00:03:03,813
+If the reservation site goes down—
+
+44
+00:03:04,082 --> 00:03:06,613
+But this is an emergency!
+
+45
+00:03:07,630 --> 00:03:09,830
+No. The website stays up.
+
+46
+00:03:10,770 --> 00:03:11,770
+CIO!
+
+47
+00:03:14,410 --> 00:03:16,390
+This is pointless.
+
+48
+00:03:28,389 --> 00:03:29,396
+(Phone ringing)
+
+49
+00:03:29,470 --> 00:03:31,073
+Hello, this is Hosono.
+
+50
+00:03:31,263 --> 00:03:32,866
+Wh-What do you think you're doing?!
+
+51
+00:03:33,430 --> 00:03:38,496
+I am about to completely sever
+our connection to the internet.
+
+52
+00:03:38,786 --> 00:03:40,466
+Are you insane?! Stop!
+
+53
+00:03:40,850 --> 00:03:42,980
+Please pass this message along to the executives.
+
+54
+00:03:44,340 --> 00:03:47,959
+Mottainai — that mindset will be your downfall.
+
+55
+00:03:49,515 --> 00:03:52,170
+Internet connection severed.
+
+56
+00:03:53,194 --> 00:03:55,493
+Gaaah! I'm going to get chewed out for this...
+
+57
+00:03:56,081 --> 00:03:58,240
+*deflates*
+
+58
+00:04:00,553 --> 00:04:02,913
+A few months later
+
+59
+00:04:03,460 --> 00:04:06,650
+Sorry about the short notice, but...
+
+60
+00:04:10,970 --> 00:04:12,750
+And so, I was seconded to a subsidiary.
+
+61
+00:04:13,130 --> 00:04:15,430
+This room all the way in the back is Development Section 1.
+
+62
+00:04:20,127 --> 00:04:23,120
+What!? You love the sound of a DMH-17 engine!?
+
+63
+00:04:23,460 --> 00:04:24,980
+You get it! You really get it!
+
+64
+00:04:28,790 --> 00:04:30,820
+Just 'cause you're a subsidiary
+don't mean you can slack off!
+
+65
+00:04:31,230 --> 00:04:33,260
+The whole company's paying for this!
+
+66
+00:04:33,890 --> 00:04:36,780
+Anyway, it goes live next month! Got it!?
+
+67
+00:04:39,530 --> 00:04:41,860
+Originally, this was supposed to be an easy project.
+
+68
+00:04:42,400 --> 00:04:45,248
+The plan was simply to customize
+a product called Kinoko Workflow
+
+69
+00:04:45,633 --> 00:04:49,067
+for the General Affairs department
+and roll it out.
+
+70
+00:04:50,230 --> 00:04:52,400
+But midway through the project,
+
+71
+00:04:52,700 --> 00:04:55,296
+someone who can't read the room
+started pushing a "logical" argument,
+
+72
+00:04:55,430 --> 00:04:57,963
+insisting it be deployed to every department.
+
+73
+00:04:58,197 --> 00:04:59,330
+Great idea!
+
+74
+00:04:59,925 --> 00:05:04,630
+And so, the team's morale
+plummeted to rock bottom.
+
+75
+00:05:04,730 --> 00:05:06,797
+Akane, I can't do this anymore.
+
+76
+00:05:07,190 --> 00:05:08,880
+Almost everyone's out sick.
+
+77
+00:05:08,980 --> 00:05:10,440
+Progress has ground to a halt...
+
+78
+00:05:11,100 --> 00:05:12,100
+That's right.
+
+79
+00:05:12,930 --> 00:05:14,360
+I gave in to temptation.
+
+80
+00:05:17,880 --> 00:05:18,880
+Lt. Commander!
+
+81
+00:05:22,840 --> 00:05:23,840
+Lt. Commander...!
+
+82
+00:05:26,980 --> 00:05:27,980
+So fast!
+
+83
+00:05:28,570 --> 00:05:29,570
+A-Amazing!
+
+84
+00:05:29,830 --> 00:05:31,313
+Whoa...
+
+85
+00:05:31,913 --> 00:05:33,147
+What incredible speed...!
+
+86
+00:05:33,860 --> 00:05:35,460
+That Guinness record is no joke!
+
+87
+00:05:36,180 --> 00:05:38,420
+Ha, a Guinness record is merely a decoration!
+
+88
+00:05:38,920 --> 00:05:40,400
+Wow, incredible...
+
+89
+00:05:40,640 --> 00:05:41,900
+It's goto art!
+
+90
+00:05:42,413 --> 00:05:44,700
+Wh— Coding in machine language!?
+
+91
+00:05:45,013 --> 00:05:46,113
+Behold!
+
+92
+00:05:46,160 --> 00:05:49,280
+The Low-Maintainability Code Master!
+
+93
+00:05:50,200 --> 00:05:51,379
+Absolutely insane.
+
+94
+00:05:51,445 --> 00:05:52,445
+W-What's that?
+
+95
+00:05:52,660 --> 00:05:54,140
+The one who caused that huge incident—
+
+96
+00:05:54,340 --> 00:05:57,500
+And who can make any program crash—
+
+97
+00:05:58,750 --> 00:06:01,160
+The Ultimate Bug Trigger!
+
+98
+00:06:01,820 --> 00:06:03,200
+We can't just sit here!
+
+99
+00:06:03,520 --> 00:06:04,520
+Let's do this!
+
+100
+00:06:05,553 --> 00:06:07,353
+Raaaaahhh!
+
+101
+00:06:07,453 --> 00:06:08,861
+So cool!
+
+102
+00:06:08,953 --> 00:06:10,020
+Go go go!
+
+103
+00:06:10,940 --> 00:06:12,386
+Electrifying!
+
+104
+00:06:14,460 --> 00:06:15,460
+Lt. Commander...!
+
+105
+00:06:16,080 --> 00:06:17,400
+And now—
+
+106
+00:07:53,510 --> 00:07:54,510
+Understand?
+
+107
+00:07:56,125 --> 00:07:57,990
+What we must aim for is perfection.
+
+108
+00:07:58,430 --> 00:08:03,330
+I want each and every one of you to be aware
+that you are the ones supporting this railway.
+
+109
+00:08:04,600 --> 00:08:09,130
+Safety and security are the keys
+to earning our passengers' trust.
+
+110
+00:08:10,130 --> 00:08:13,330
+As I've said many times: zero computer virus infections!
+
+111
+00:08:14,020 --> 00:08:15,890
+Zero information security incidents!
+
+112
+00:08:17,200 --> 00:08:18,550
+That should be a given!
+
+113
+00:08:19,690 --> 00:08:21,530
+And yet you can't even manage that!
+
+114
+00:08:22,340 --> 00:08:25,190
+Anyone who gets infected is just as guilty as the hacker!
+
+115
+00:08:26,140 --> 00:08:30,030
+Disciplinary action will be unavoidable, of course.
+
+116
+00:08:30,680 --> 00:08:34,510
+I heard someone in the International Division got demoted.
+
+117
+00:08:35,320 --> 00:08:37,510
+You'd better be especially careful, Mei...
+
+118
+00:08:38,170 --> 00:08:41,930
+Unfortunately, that concern is well-founded.
+
+119
+00:08:44,980 --> 00:08:48,646
+I'm next. That's what I thought.
+(Katsuragi) Be aware of your duty as railway employees and devote yourselves to your work.
+
+120
+00:08:49,870 --> 00:08:54,130
+Awareness — right, I need to be more aware.
+
+121
+00:08:56,250 --> 00:08:58,070
+Understand?
+
+122
+00:08:58,120 --> 00:09:00,130
+I won't get infected by viruses anymore!
+
+123
+00:09:03,853 --> 00:09:06,500
+Uuugh... my computer is acting weird.
+
+124
+00:09:08,560 --> 00:09:11,040
+She just said that and already...
+
+125
+00:09:12,740 --> 00:09:15,406
+We need to contact the System Division...
+
+126
+00:09:15,673 --> 00:09:17,885
+We'll get fired — both you and me...
+
+127
+00:09:18,539 --> 00:09:20,120
+Um, Uyagawa, I'm sorry!
+
+128
+00:09:20,460 --> 00:09:23,280
+Could you please keep this between us?
+
+129
+00:09:24,570 --> 00:09:28,040
+Sure, no problem.
+Just be more careful from now on, okay?
+
+130
+00:09:31,920 --> 00:09:34,088
+I've removed the virus.
+
+131
+00:09:34,712 --> 00:09:36,280
+Thank you so much!
+
+132
+00:09:38,690 --> 00:09:40,440
+Saved by the skin of my teeth...
+
+133
+00:09:41,050 --> 00:09:43,100
+Director Katsuragi isn't kidding around, you know.
+
+134
+00:09:43,600 --> 00:09:47,500
+You really need to be more aware
+and stop causing trouble for other people.
+
+135
+00:09:47,870 --> 00:09:49,360
+Yes...
+
+136
+00:09:50,803 --> 00:09:54,870
+Ugh... of all days, today is just not my day...
+
+137
+00:09:54,936 --> 00:09:56,136
+(Phone ringing)
+
+138
+00:09:56,270 --> 00:09:59,403
+Sorry, Agaho, can you get the phone?
+
+139
+00:10:02,870 --> 00:10:05,136
+Thank you for calling.
+
+140
+00:10:05,203 --> 00:10:06,885
+Kyoki Railway PR Department, Agaho speaking.
+
+141
+00:10:06,910 --> 00:10:08,860
+(Phone voice) My name is Asagiri Yoshimitsu.
+
+142
+00:10:10,170 --> 00:10:13,621
+You see, starting a few minutes ago, on our website...
+
+143
+00:10:13,645 --> 00:10:17,920
+We've been receiving suspicious traffic resembling
+a DoS attack from your IP address.
+
+144
+00:10:19,911 --> 00:10:21,645
+Huh!?
+
+145
+00:10:22,480 --> 00:10:23,580
+IP...?
+
+146
+00:10:23,680 --> 00:10:25,130
+DoS...koi?
+
+147
+00:10:25,963 --> 00:10:27,013
+Ah!
+
+148
+00:10:31,313 --> 00:10:32,647
+It was a prank call!
+
+149
+00:10:33,510 --> 00:10:35,330
+Ah— hey, wait!?
+
+150
+00:10:37,375 --> 00:10:39,310
+There sure are a lot of weirdos out there.
+
+151
+00:10:40,200 --> 00:10:43,270
+Well, at least that was a change of pace.
+
+152
+00:10:43,333 --> 00:10:45,150
+(Colleague) The Kobe TV crew is here.
+
+153
+00:10:45,383 --> 00:10:47,500
+Coming!
+
+154
+00:11:05,490 --> 00:11:06,920
+Doors closed, check!
+
+155
+00:11:06,980 --> 00:11:08,646
+Side lights, check!
+
+156
+00:11:08,713 --> 00:11:09,913
+Platform, check!
+
+157
+00:11:10,680 --> 00:11:12,763
+Departure equivalent — proceed!
+
+158
+00:11:40,390 --> 00:11:42,360
+Ahh... is it quitting time yet...
+
+159
+00:11:44,290 --> 00:11:47,140
+There are still about 7 hours until quitting time.
+
+160
+00:11:47,940 --> 00:11:49,090
+(Akane) Ugggh...
+
+161
+00:11:51,820 --> 00:11:54,153
+You seem to be having fun, Lt. Commander.
+
+162
+00:11:54,453 --> 00:11:57,119
+(Lt. Commander) I'm developing that system! *smugly*
+
+163
+00:11:57,203 --> 00:11:58,750
+Oh, actual work?
+
+164
+00:11:59,190 --> 00:12:00,190
+That's rare.
+
+165
+00:12:01,890 --> 00:12:02,958
+Observe.
+
+166
+00:12:02,982 --> 00:12:06,210
+I've just implemented a feature that plays
+sound effects with keyboard input.
+
+167
+00:12:07,282 --> 00:12:11,682
+(Keyboard sound effects) Beep beep beep beep beep...
+
+168
+00:12:12,290 --> 00:12:14,830
+(Computer) Katsudon bowl has been ordered.
+
+169
+00:12:17,620 --> 00:12:21,150
+Plus, sound effects only play when
+Scroll Lock is ON — thoughtful design!
+
+170
+00:12:21,920 --> 00:12:23,850
+Nobody uses Scroll Lock anyway!
+
+171
+00:12:27,814 --> 00:12:29,700
+Well? Logical, isn't it?
+
+172
+00:12:29,780 --> 00:12:32,540
+The OS I created!
+
+173
+00:12:34,740 --> 00:12:36,180
+Please do some actual work.
+
+174
+00:12:37,860 --> 00:12:38,860
+Huh?
+
+175
+00:12:38,900 --> 00:12:40,300
+Look who's talking!
+
+176
+00:12:41,790 --> 00:12:42,923
+(Phone ringing)
+
+177
+00:12:45,910 --> 00:12:48,510
+Hello, this is Hosono from the System Division.
+
+178
+00:12:49,390 --> 00:12:51,290
+(Phone voice) This is Sasayama from the National Railways Police.
+
+179
+00:12:51,550 --> 00:12:52,983
+(Phone voice) Thank you for your continued support.
+
+180
+00:12:53,067 --> 00:12:54,099
+Huh, an outside call!?
+
+181
+00:12:54,130 --> 00:12:56,110
+Oh, th-thank you for your continued support.
+
+182
+00:12:57,230 --> 00:12:58,230
+Hm?
+
+183
+00:12:58,340 --> 00:12:59,599
+(Phone voice) ...Wait, Akane?
+
+184
+00:13:00,200 --> 00:13:01,033
+Huh?
+
+185
+00:13:05,910 --> 00:13:07,330
+I knew it was Akane!
+
+186
+00:13:08,448 --> 00:13:11,332
+Long time no see! It's Sasamin!
+
+187
+00:13:11,920 --> 00:13:14,537
+I'm in Himeji today!
+
+188
+00:13:15,265 --> 00:13:16,331
+Heh?
+
+189
+00:13:17,761 --> 00:13:19,920
+This person went to the same high school
+and university as me.
+
+190
+00:13:20,920 --> 00:13:21,920
+(Phone voice) Oh, right, right.
+
+191
+00:13:22,080 --> 00:13:23,720
+(Phone voice) I got a job at National Railways!
+
+192
+00:13:24,020 --> 00:13:25,613
+Nice to meet you!
+
+193
+00:13:27,030 --> 00:13:30,063
+Uh, excuse me, but what is this regarding?
+
+194
+00:13:30,400 --> 00:13:31,920
+Aww, so cold!
+
+195
+00:13:32,975 --> 00:13:34,040
+Anyway, the real reason I'm calling.
+
+196
+00:13:34,680 --> 00:13:38,180
+Just between us, we've been getting nonstop alerts since this morning.
+
+197
+00:13:38,550 --> 00:13:43,816
+(Phone voice) Your system has been repeatedly sending
+large amounts of incomplete data to us.
+
+198
+00:13:43,916 --> 00:13:44,974
+What!?
+
+199
+00:13:45,100 --> 00:13:48,216
+(Phone voice) So, take care of it ASAP, okay?
+
+200
+00:13:49,067 --> 00:13:52,150
+(Phone disconnects)
+
+201
+00:13:52,300 --> 00:13:53,383
+(Lt. Commander) What happened?
+
+202
+00:13:53,560 --> 00:13:55,308
+It was Sasamin.
+
+203
+00:13:55,332 --> 00:13:56,640
+Sasamin?
+
+204
+00:13:57,760 --> 00:13:59,956
+Sasami cutlet?
+
+205
+00:14:09,340 --> 00:14:12,901
+Goodbye, leaving on time.
+
+206
+00:14:17,173 --> 00:14:19,940
+Ahh...
+
+207
+00:14:23,740 --> 00:14:24,740
+Report!
+
+208
+00:14:26,680 --> 00:14:27,900
+Virus infection reports!
+
+209
+00:14:30,320 --> 00:14:31,320
+...None are flooding in.
+
+210
+00:14:33,770 --> 00:14:34,960
+In fact, there aren't any at all.
+
+211
+00:14:35,380 --> 00:14:37,680
+That's because Katsuragi's been going around
+threatening everyone.
+
+212
+00:14:38,500 --> 00:14:40,240
+Saying anyone who gets a virus infection
+faces disciplinary action.
+
+213
+00:14:41,950 --> 00:14:44,500
+...Can't you do something about that, CIO?
+
+214
+00:14:44,700 --> 00:14:45,700
+I can't!
+
+215
+00:14:46,060 --> 00:14:48,740
+He used to be a union leader — he's a tough one.
+
+216
+00:14:50,140 --> 00:14:51,140
+I see.
+
+217
+00:14:52,090 --> 00:14:53,500
+It's not my fault!
+
+218
+00:14:55,400 --> 00:14:56,400
+Can't be helped.
+
+219
+00:14:56,880 --> 00:14:58,560
+Let's organize the information we have.
+
+220
+00:14:59,946 --> 00:15:00,995
+(Lt. Commander) Right.
+
+221
+00:15:01,020 --> 00:15:04,560
+(Lt. Commander) The station and operations data transfer
+to National Railways keeps terminating abnormally.
+
+222
+00:15:05,450 --> 00:15:09,000
+(Lt. Commander) According to the logs, it's been happening
+every few seconds since around 8 AM.
+
+223
+00:15:11,300 --> 00:15:14,416
+At 9:35, upon request from National Railways,
+
+224
+00:15:14,549 --> 00:15:17,533
+we severed the dedicated line five minutes later.
+
+225
+00:15:17,600 --> 00:15:19,167
+(Hiroka) Have you interviewed the relevant departments?
+
+226
+00:15:19,540 --> 00:15:20,540
+Yes.
+
+227
+00:15:20,720 --> 00:15:21,720
+Nothing wrong here.
+
+228
+00:15:22,180 --> 00:15:23,180
+Really, really.
+
+229
+00:15:23,800 --> 00:15:24,800
+Business as usual.
+
+230
+00:15:26,220 --> 00:15:27,220
+...So they say.
+
+231
+00:15:28,700 --> 00:15:30,766
+Smells like a cover-up...
+
+232
+00:15:31,100 --> 00:15:33,000
+What about the other systems?
+
+233
+00:15:33,360 --> 00:15:34,600
+They're sluggish overall.
+
+234
+00:15:35,400 --> 00:15:36,980
+It varies by server, but...
+
+235
+00:15:37,829 --> 00:15:40,459
+Oh — there's a deadlock.
+
+236
+00:15:40,540 --> 00:15:41,425
+Where?
+
+237
+00:15:41,450 --> 00:15:43,320
+In the HR system's monthly batch processing.
+
+238
+00:15:44,350 --> 00:15:47,220
+Looks like the spike in access triggered a latent bug.
+
+239
+00:15:48,880 --> 00:15:52,180
+Data distribution to the integration server
+has been stalled since this morning.
+
+240
+00:15:53,780 --> 00:15:54,780
+HR...
+
+241
+00:15:55,060 --> 00:15:56,773
+So that's why, this morning...
+
+242
+00:15:57,893 --> 00:15:59,093
+Urgh...
+
+243
+00:16:00,905 --> 00:16:03,501
+That was a sad incident...
+
+244
+00:16:04,660 --> 00:16:06,720
+What about network traffic?
+
+245
+00:16:06,780 --> 00:16:09,540
+Still compiling the numbers, but it's significantly
+above normal.
+
+246
+00:16:10,200 --> 00:16:12,580
+Could it be something like packet looping?
+
+247
+00:16:15,480 --> 00:16:16,480
+I don't think so.
+
+248
+00:16:17,130 --> 00:16:19,163
+ARP traffic is normal.
+
+249
+00:16:19,663 --> 00:16:22,063
+Then what's causing the increase?
+
+250
+00:16:22,459 --> 00:16:23,667
+HTTP.
+
+251
+00:16:23,691 --> 00:16:24,899
+HTTP?
+
+252
+00:16:26,560 --> 00:16:29,496
+Mostly traffic from internal PCs to internal servers —
+
+253
+00:16:29,630 --> 00:16:31,897
+is dozens of times higher than normal.
+
+254
+00:16:33,020 --> 00:16:36,286
+Some of it is leaking externally through the proxy.
+
+255
+00:16:36,420 --> 00:16:38,520
+Any traces of malware!?
+
+256
+00:16:38,600 --> 00:16:42,781
+So far, no suspicious processes or files have been found.
+
+257
+00:16:43,419 --> 00:16:45,670
+That's unsettling.
+
+258
+00:16:46,230 --> 00:16:47,360
+We have no hard evidence yet.
+
+259
+00:16:48,170 --> 00:16:49,900
+But better safe than sorry.
+
+260
+00:16:51,580 --> 00:16:55,500
+Lt. Commander, we're cutting off internet access
+from the business LAN.
+
+261
+00:16:55,685 --> 00:16:56,719
+Yes, ma'am.
+
+262
+00:16:56,852 --> 00:16:57,860
+Hosono.
+
+263
+00:16:57,885 --> 00:16:59,871
+Contact Risk Management and the PR Department.
+
+264
+00:16:59,895 --> 00:17:01,880
+Send a company-wide notification via groupware.
+
+265
+00:17:02,160 --> 00:17:03,160
+Right.
+
+266
+00:17:03,820 --> 00:17:05,708
+That's all right with you, CIO?
+
+267
+00:17:05,831 --> 00:17:07,719
+Will the reservation site be affected?
+
+268
+00:17:08,110 --> 00:17:09,240
+Not at the moment.
+
+269
+00:17:09,790 --> 00:17:11,320
+However, depending on how things develop...
+
+270
+00:17:12,360 --> 00:17:13,560
+Not this again...
+
+271
+00:17:19,960 --> 00:17:23,380
+What measures do you have in place against cyberattacks?
+
+272
+00:17:24,159 --> 00:17:25,226
+Well,
+
+273
+00:17:25,360 --> 00:17:27,526
+first, to ensure that attacks cannot reach us,
+
+274
+00:17:27,689 --> 00:17:29,593
+the systems that manage train operations
+
+275
+00:17:29,760 --> 00:17:32,127
+are on an isolated network.
+
+276
+00:17:33,280 --> 00:17:35,598
+However, as the Stuxnet case demonstrated,
+
+277
+00:17:35,622 --> 00:17:37,326
+even isolated networks
+
+278
+00:17:37,377 --> 00:17:39,840
+have been identified as vulnerable to attack.
+
+279
+00:17:40,700 --> 00:17:42,800
+What if you did come under such an attack?
+
+280
+00:17:43,913 --> 00:17:44,915
+Well,
+
+281
+00:17:44,940 --> 00:17:47,352
+passenger safety is our top priority,
+
+282
+00:17:47,376 --> 00:17:48,713
+and when something happens,
+
+283
+00:17:48,780 --> 00:17:51,420
+our principle is to stop all trains immediately.
+
+284
+00:17:51,907 --> 00:17:53,373
+In our company's case,
+
+285
+00:17:53,540 --> 00:17:54,706
+when a system anomaly is detected,
+
+286
+00:17:54,973 --> 00:17:57,440
+all signals immediately turn red,
+
+287
+00:17:57,706 --> 00:18:02,140
+and a radio signal ordering an emergency stop
+is transmitted automatically.
+
+288
+00:18:02,440 --> 00:18:05,200
+A radio signal? What kind, specifically?
+
+289
+00:18:06,073 --> 00:18:07,573
+Beep beep beep.
+
+290
+00:18:07,707 --> 00:18:09,273
+Beep beep beep?
+
+291
+00:18:09,298 --> 00:18:10,873
+Beep beep beep.
+
+292
+00:18:17,220 --> 00:18:18,363
+Emergency broadcast!
+
+293
+00:18:18,387 --> 00:18:20,073
+It's coming from this command center!
+
+294
+00:18:20,273 --> 00:18:21,707
+You've gotta be kidding.
+
+295
+00:18:25,240 --> 00:18:26,740
+Home signal — proceed!
+
+296
+00:18:28,010 --> 00:18:30,160
+Passing Higashi-Fukuzumi signal station.
+
+297
+00:18:31,890 --> 00:18:33,357
+Wait—!
+
+298
+00:18:33,423 --> 00:18:36,323
+Whaaaaaaat!?
+(Emergency radio) Beep beep beep...
+
+299
+00:18:36,523 --> 00:18:37,356
+Stop!
+
+300
+00:18:46,186 --> 00:18:47,790
+A system anomaly detection!?
+
+301
+00:18:47,857 --> 00:18:49,023
+Yes!
+
+302
+00:18:49,156 --> 00:18:50,580
+Multiple signals passed at danger!
+
+303
+00:18:50,880 --> 00:18:52,400
+Emergency radio has also been triggered!
+
+304
+00:18:52,960 --> 00:18:57,360
+Main Line — 431M, 441M, 2103D!
+
+305
+00:18:58,827 --> 00:19:02,860
+Reports are coming in that departure signals
+suddenly changed to stop aspect.
+
+306
+00:19:03,260 --> 00:19:06,393
+Tegarayama Station, Himeji Station,
+Kyotetsu-Sonobe Station.
+
+307
+00:19:06,740 --> 00:19:08,660
+The Sanshinki Line too!
+
+308
+00:19:09,180 --> 00:19:11,526
+Don't you dare start up that train rescheduling thing!
+
+309
+00:19:11,760 --> 00:19:14,460
+We're not using anything that heavy!
+
+310
+00:19:15,293 --> 00:19:18,540
+Whaaaat!? I didn't do anything!?
+
+311
+00:19:27,526 --> 00:19:29,426
+Excuse me.
+
+312
+00:19:29,526 --> 00:19:32,660
+It's been stopped for an hour now — what's going on!?
+
+313
+00:19:33,270 --> 00:19:36,111
+I'm sorry... we don't have any new information...
+
+314
+00:19:38,840 --> 00:19:40,850
+This is 2103D driver.
+
+315
+00:19:41,620 --> 00:19:42,950
+Transport Command, come in?
+
+316
+00:19:45,520 --> 00:19:49,150
+Transport Command, this is 2103D driver, come in?
+
+317
+00:19:51,330 --> 00:19:53,270
+Transport Command, you idiots!
+
+318
+00:19:54,030 --> 00:19:55,231
+(Train radio) This is Transport Command.
+
+319
+00:19:55,256 --> 00:19:56,865
+(Train radio) Which driver just called us idiots? Over!
+
+320
+00:19:57,070 --> 00:19:58,070
+Heh, too easy.
+
+321
+00:19:58,710 --> 00:20:02,550
+This is 2103D driver.
+When will operations resume?
+
+322
+00:20:04,360 --> 00:20:07,736
+This is Transport Command to 2103D driver.
+
+323
+00:20:07,827 --> 00:20:09,459
+Due to a transport management system malfunction...
+
+324
+00:20:09,627 --> 00:20:11,760
+(Train radio) You told me that an hour ago!
+
+325
+00:20:11,893 --> 00:20:14,260
+(Train radio) What kind of malfunction is it?
+
+326
+00:20:14,820 --> 00:20:17,030
+What happened, and what's the current status!?
+
+327
+00:20:17,790 --> 00:20:18,790
+What's going on!?
+
+328
+00:20:19,275 --> 00:20:21,290
+What the hell is going ooooon!?
+
+329
+00:20:22,295 --> 00:20:24,010
+Inquiries are overwhelming us.
+
+330
+00:20:24,650 --> 00:20:25,650
+Like I'd know.
+
+331
+00:20:25,830 --> 00:20:28,423
+We're the ones who want to know the most!
+
+332
+00:20:28,757 --> 00:20:31,523
+What the hell is happening? Seriously!
+
+333
+00:20:32,090 --> 00:20:34,856
+What is Signal & Communications doing, huh!?
+
+334
+00:20:35,080 --> 00:20:39,323
+We've asked KITS and the various vendors
+to investigate...
+
+335
+00:20:39,357 --> 00:20:41,557
+Hey! KITS's what's-his-face!
+
+336
+00:20:42,240 --> 00:20:43,570
+It's Uyagawa.
+
+337
+00:20:44,500 --> 00:20:46,170
+You know something, don't you!
+
+338
+00:20:46,370 --> 00:20:49,530
+I know you do — you were on the transport management
+system upgrade project!
+
+339
+00:20:49,930 --> 00:20:52,198
+I only do terminal maintenance now,
+
+340
+00:20:52,222 --> 00:20:55,189
+and besides, nothing has been clearly established—
+
+341
+00:20:55,289 --> 00:20:56,770
+Don't tell me it's a virus!
+
+342
+00:20:57,720 --> 00:21:01,289
+The current situation is that we haven't found one either...
+
+343
+00:21:01,423 --> 00:21:02,690
+Tch! Give me a break!
+
+344
+00:21:03,250 --> 00:21:07,710
+If it is a virus, I'd face disciplinary action...
+no way...
+
+345
+00:21:07,910 --> 00:21:09,955
+My credit card payments...
+
+346
+00:21:09,979 --> 00:21:12,710
+My revolving credit payments...
+
+347
+00:21:13,320 --> 00:21:15,150
+What exactly is the situation here?
+
+348
+00:21:15,470 --> 00:21:16,770
+Well, um...
+
+349
+00:21:20,220 --> 00:21:22,460
+It must be a virus — it's my fault!
+
+350
+00:21:22,940 --> 00:21:26,780
+It's because of me... and if they find out,
+it won't just be me!
+
+351
+00:21:26,781 --> 00:21:29,673
+The section chief could lose their job too.
+
+352
+00:21:29,840 --> 00:21:32,940
+Stop causing trouble for other people.
+
+353
+00:21:33,240 --> 00:21:34,980
+Oh no, what do I do!
+
+354
+00:21:35,180 --> 00:21:36,180
+What do I do!
+
+355
+00:21:36,423 --> 00:21:38,123
+What do I do...
+
+356
+00:21:38,957 --> 00:21:40,157
+!
+
+357
+00:21:41,390 --> 00:21:43,557
+Hmm...
+
+358
+00:21:43,880 --> 00:21:46,380
+(Section Chief Yobe) Stop causing trouble for other people!
+
+359
+00:21:48,080 --> 00:21:49,080
+That's it!
+
+360
+00:21:49,440 --> 00:21:51,200
+Akane isn't "other people"!
+
+361
+00:21:51,880 --> 00:21:54,020
+I can just ask Akane for help!
+
+362
+00:21:55,140 --> 00:21:56,400
+Akaneeee!
+
+363
+00:21:57,680 --> 00:21:58,680
+Here we go.
+
+364
+00:21:59,360 --> 00:22:01,959
+Akaneeeeeee!
+
+365
+00:22:03,060 --> 00:22:06,710
+It's all my fault... It's all my fault...
+
+366
+00:22:06,810 --> 00:22:08,669
+Please calm down.
+
+367
+00:22:09,490 --> 00:22:10,490
+It's okay.
+
+368
+00:22:10,875 --> 00:22:13,560
+If you turn yourself in, the sentence will be lighter.
+
+369
+00:22:13,693 --> 00:22:17,060
+I didn't do anything!
+
+370
+00:22:17,410 --> 00:22:20,210
+This one's contradicting herself already.
+
+371
+00:22:22,590 --> 00:22:25,650
+It seems like the transport management system
+is having issues too.
+
+372
+00:22:26,190 --> 00:22:27,350
+All services are suspended.
+
+373
+00:22:28,150 --> 00:22:29,150
+What!?
+
+374
+00:22:29,470 --> 00:22:32,281
+That's outside our jurisdiction,
+so we don't have much info...
+
+375
+00:22:32,982 --> 00:22:34,748
+Could it be the same incident?
+
+376
+00:22:35,090 --> 00:22:37,590
+If so, that narrows down the possibilities.
+
+377
+00:22:38,910 --> 00:22:43,350
+The transport management network and the
+information/business network are separated, right?
+
+378
+00:22:44,290 --> 00:22:46,543
+The only things connected to both networks
+
+379
+00:22:46,657 --> 00:22:51,090
+are the authentication server and
+the update distribution server for terminals.
+
+380
+00:22:51,300 --> 00:22:52,670
+Could those be infected with malware?
+
+381
+00:22:55,390 --> 00:22:56,970
+There's one more possibility.
+
+382
+00:22:57,870 --> 00:23:01,751
+The possibility that an insider
+is deliberately attacking us.
+
+383
+00:23:04,030 --> 00:23:06,750
+Right... Not something we'd want to hear, but...
+
+384
+00:23:19,900 --> 00:23:20,900
+Logs?
+
+385
+00:23:21,650 --> 00:23:23,180
+Retention periods vary.
+
+386
+00:23:24,135 --> 00:23:26,040
+Some may already be gone.
+
+387
+00:23:26,480 --> 00:23:29,520
+But there may still be important traces remaining.
+
+388
+00:23:30,420 --> 00:23:32,786
+Let's gather and preserve the logs together.
+
+389
+00:23:33,053 --> 00:23:35,060
+CIO Nakafunyu?
+
+390
+00:23:35,135 --> 00:23:36,953
+O-Okay...
+
+391
+00:23:37,153 --> 00:23:39,620
+(Hiroka) Report to the president
+without Director Katsuragi finding out.
+
+392
+00:23:39,753 --> 00:23:41,720
+(Hiroka) Make sure it goes smoothly.
+
+393
+00:23:41,840 --> 00:23:42,840
+What!?
+
+394
+00:23:42,980 --> 00:23:43,980
+Me!?
+
+395
+00:23:47,220 --> 00:23:49,360
+O-Okay, fine...
+
+396
+00:23:52,025 --> 00:23:55,040
+Um, can I go back to my desk?
+
+397
+00:23:56,058 --> 00:23:58,792
+The atmosphere here is the worst.
+
+398
+00:23:59,300 --> 00:24:00,300
+Wait.
+
+399
+00:24:00,500 --> 00:24:01,540
+Hosono, stay there.
+
+400
+00:24:02,210 --> 00:24:04,080
+Share information with Transport Command.
+
+401
+00:24:05,620 --> 00:24:07,091
+Ugh...
+
+402
+00:24:07,891 --> 00:24:10,800
+Listen. A system isn't just computers.
+
+403
+00:24:11,300 --> 00:24:13,500
+It includes people too.
+
+404
+00:24:13,990 --> 00:24:18,600
+Properly communicating the situation to users
+is also a vital role for an engineer.
+
+405
+00:24:21,660 --> 00:24:22,848
+Oh, hello.
+
+406
+00:24:22,982 --> 00:24:24,915
+Huh? Who the hell are you?
+
+407
+00:24:25,540 --> 00:24:27,448
+I'm Hosono from the PR Department, System Division.
+
+408
+00:24:27,715 --> 00:24:29,015
+Hah? PR?
+
+409
+00:24:29,400 --> 00:24:30,400
+Hello.
+
+410
+00:24:30,560 --> 00:24:33,748
+It's the System Division, freeloading under
+the PR Department due to budget constraints.
+
+411
+00:24:34,448 --> 00:24:36,348
+Yeah, I know. What do you want?
+
+412
+00:24:37,040 --> 00:24:38,462
+Sorry for the verbal notice, but
+
+413
+00:24:38,487 --> 00:24:40,906
+I have something urgent to tell everyone.
+
+414
+00:24:48,020 --> 00:24:49,110
+—And that's the current situation.
+
+415
+00:24:49,815 --> 00:24:53,034
+Well, to borrow Director Katsuragi's words,
+
+416
+00:24:53,146 --> 00:24:56,568
+it's basically a "disciplinary action for every employee"
+kind of situation.
+
+417
+00:24:56,901 --> 00:24:58,634
+Are you sure about this!?
+
+418
+00:24:58,830 --> 00:25:02,410
+Um, you're scaring me, could you lower your tone?
+
+419
+00:25:02,850 --> 00:25:04,310
+...Are you sure about this?
+
+420
+00:25:05,045 --> 00:25:06,270
+We can't confirm it yet.
+
+421
+00:25:07,150 --> 00:25:10,338
+However, considering what's actually happening,
+
+422
+00:25:10,362 --> 00:25:14,516
+I believe we need to act
+on the safest possible assumption.
+
+423
+00:25:14,583 --> 00:25:16,450
+Damn... This is terrible...
+
+424
+00:25:17,330 --> 00:25:19,206
+A cyberattack is suspected.
+
+425
+00:25:19,273 --> 00:25:21,790
+The transport management system cannot be trusted.
+
+426
+00:25:22,290 --> 00:25:23,762
+Is that a fair assessment?
+
+427
+00:25:23,806 --> 00:25:24,829
+...Yes.
+
+428
+00:25:24,854 --> 00:25:26,207
+How long have you known?
+
+429
+00:25:26,350 --> 00:25:28,740
+Since around 9 AM.
+
+430
+00:25:28,765 --> 00:25:30,873
+Why didn't you say something sooner!?
+
+431
+00:25:31,110 --> 00:25:34,870
+Thorough communication! Accident prevention!
+Compliance with regulations!
+
+432
+00:25:35,590 --> 00:25:36,690
+It's on the back of your badge!
+
+433
+00:25:37,590 --> 00:25:38,590
+I'm sorry.
+
+434
+00:25:40,410 --> 00:25:44,134
+Wait. Whose fault was it
+that safety wasn't maintained?
+
+435
+00:25:44,268 --> 00:25:46,379
+Why did it come to this?
+
+436
+00:25:52,550 --> 00:25:54,650
+It's all my fault, isn't it?
+
+437
+00:25:55,410 --> 00:25:56,410
+Hey, Yabase.
+
+438
+00:25:57,560 --> 00:26:00,365
+You held back the report because
+you were afraid of me, right?
+
+439
+00:26:00,515 --> 00:26:05,148
+Uh, well, um...
+
+440
+00:26:06,170 --> 00:26:08,198
+That's part of it...
+
+441
+00:26:08,648 --> 00:26:11,882
+But Director Katsuragi...
+
+442
+00:26:14,210 --> 00:26:15,230
+...I'm sorry.
+
+443
+00:26:15,590 --> 00:26:16,590
+It was my fault.
+
+444
+00:26:17,510 --> 00:26:20,240
+Thank you for being honest.
+
+445
+00:26:20,607 --> 00:26:22,323
+Everyone, listen up!
+
+446
+00:26:22,580 --> 00:26:24,070
+It is now 11:05 AM.
+
+447
+00:26:24,490 --> 00:26:28,090
+As of this moment, we are treating this
+as a critical incident.
+
+448
+00:26:30,080 --> 00:26:31,590
+Accidents will happen. That's inevitable.
+
+449
+00:26:31,970 --> 00:26:32,970
+That's just reality.
+
+450
+00:26:33,720 --> 00:26:35,750
+Zero liability accidents. Zero incidents.
+
+451
+00:26:36,050 --> 00:26:37,350
+Those are just targets.
+
+452
+00:26:38,010 --> 00:26:40,730
+A zero achieved through cover-ups
+or word games is meaningless.
+
+453
+00:26:41,330 --> 00:26:42,993
+What matters most right now
+
+454
+00:26:43,127 --> 00:26:45,560
+is getting our passengers to their destinations safely.
+
+455
+00:26:47,150 --> 00:26:50,130
+I'm the one who caused this situation.
+It's my responsibility.
+
+456
+00:26:51,540 --> 00:26:53,890
+I played favorites and built walls between us.
+
+457
+00:26:54,825 --> 00:26:56,770
+I consider that itself an incident.
+
+458
+00:26:58,490 --> 00:27:02,710
+Realizing this only now is shameful
+for someone in the railway industry.
+
+459
+00:27:03,510 --> 00:27:07,850
+But safety can only be achieved
+with everyone's cooperation.
+
+460
+00:27:08,660 --> 00:27:10,923
+So please, lend me your strength.
+
+461
+00:27:11,257 --> 00:27:12,923
+I'm begging you.
+
+462
+00:27:16,110 --> 00:27:18,510
+At that moment, everyone remembered.
+
+463
+00:27:20,140 --> 00:27:22,290
+General Rules, Accident Prevention:
+
+464
+00:27:22,865 --> 00:27:26,544
+"All employees shall cooperate as one
+in the prevention of accidents,
+
+465
+00:27:26,728 --> 00:27:30,377
+and shall ensure that no harm comes
+to passengers or the public,
+
+466
+00:27:30,402 --> 00:27:33,411
+giving their utmost effort to this end."
+
+467
+00:27:33,580 --> 00:27:36,470
+Today is the day to show what
+our training has prepared us for.
+
+468
+00:27:38,120 --> 00:27:41,690
+Everyone, follow the emergency procedures manual.
+
+469
+00:27:41,850 --> 00:27:45,770
+If there's any unexpected situation or sign of danger,
+contact me immediately.
+
+470
+00:27:48,025 --> 00:27:49,410
+False alarms are fine.
+
+471
+00:27:49,632 --> 00:27:51,915
+Anyone who prevents an accident before it happens,
+
+472
+00:27:52,000 --> 00:27:53,998
+anyone who contributes to damage reduction—
+
+473
+00:27:54,023 --> 00:27:59,981
+no matter what Katsuragi says,
+I will officially commend them under my authority.
+
+474
+00:28:00,165 --> 00:28:01,448
+Understood!?
+
+475
+00:28:01,770 --> 00:28:02,770
+Yes, sir!
+
+476
+00:28:03,930 --> 00:28:04,930
+Hey, Tsuruga.
+
+477
+00:28:05,210 --> 00:28:07,530
+I'm appointing you as incident recorder.
+
+478
+00:28:08,170 --> 00:28:09,170
+Begin recording.
+
+479
+00:28:09,370 --> 00:28:13,950
+Understood, beginning recording.
+What about video documentation?
+
+480
+00:28:14,930 --> 00:28:16,370
+There happens to be a camera over there.
+
+481
+00:28:17,270 --> 00:28:18,490
+Request their cooperation.
+
+482
+00:28:19,373 --> 00:28:20,940
+What!?
+
+483
+00:28:21,970 --> 00:28:23,456
+Hey, Yamaguchi.
+
+484
+00:28:23,840 --> 00:28:30,298
+Per the manual, make a preliminary phone report to
+the Risk Management Committee and
+the Kinki Transport Bureau's Railway Safety Division.
+
+485
+00:28:31,390 --> 00:28:34,830
+The Transport Bureau — it'll be the usual guy
+answering the phone.
+
+486
+00:28:35,150 --> 00:28:37,890
+He asks a lot of questions,
+so have your answers ready.
+
+487
+00:28:38,310 --> 00:28:43,850
+Roger. By the way, is this classified as
+a railway operations accident or a service disruption?
+
+488
+00:28:44,570 --> 00:28:46,150
+Too unprecedented to say.
+
+489
+00:28:47,150 --> 00:28:52,810
+"Disrupts mainline operations for over three hours"
+— wouldn't it be both?
+
+490
+00:28:53,723 --> 00:28:56,823
+Then for our reporting basis,
+
+491
+00:28:57,023 --> 00:29:04,030
+we'll cite the Railway Accident Reporting Rules,
+Article 5, Paragraph 1, Item 5, and Paragraph 2, Item 1.
+
+492
+00:29:04,600 --> 00:29:06,290
+There's also a suspected cyberattack.
+
+493
+00:29:06,670 --> 00:29:09,650
+Add "deemed particularly exceptional" as well.
+
+494
+00:29:11,020 --> 00:29:12,998
+Root cause analysis can wait.
+
+495
+00:29:13,165 --> 00:29:15,248
+How many hours to restore?
+
+496
+00:29:15,410 --> 00:29:16,981
+I don't know.
+
+497
+00:29:17,270 --> 00:29:21,448
+We can't even begin restoration
+without first identifying the virus.
+
+498
+00:29:22,590 --> 00:29:26,390
+Worst case, we'll have to set up
+the entire system from scratch.
+
+499
+00:29:27,150 --> 00:29:31,273
+In that case, the earliest we could restore
+would be tomorrow's first train.
+
+500
+00:29:31,640 --> 00:29:33,673
+If it takes longer, a full week...
+
+501
+00:29:34,091 --> 00:29:35,965
+Understood.
+
+502
+00:29:36,098 --> 00:29:38,215
+Suspended until tomorrow morning!?
+
+503
+00:29:38,470 --> 00:29:40,031
+Like hell. Don't be stupid.
+
+504
+00:29:40,215 --> 00:29:42,032
+Substitute block signaling.
+
+505
+00:29:42,098 --> 00:29:44,510
+Substitute block signaling!? On the entire line!?
+
+506
+00:29:45,470 --> 00:29:46,965
+Seriously...
+
+507
+00:29:47,165 --> 00:29:48,632
+(Managura) Dead serious.
+
+508
+00:29:48,830 --> 00:29:49,830
+Five hours.
+
+509
+00:29:50,360 --> 00:29:51,910
+I'll buy you five hours.
+
+510
+00:29:52,530 --> 00:29:53,530
+That's the limit.
+
+511
+00:29:54,140 --> 00:29:58,623
+Get at least the automatic block signaling
+and CTC back before the morning rush.
+
+512
+00:30:00,489 --> 00:30:04,170
+Nnngh!
+
+513
+00:30:08,039 --> 00:30:10,106
+Meow~
+
+514
+00:30:12,570 --> 00:30:14,065
+Stationmaster Tsukita!
+
+515
+00:30:15,440 --> 00:30:16,440
+Are you all right!?
+
+516
+00:30:17,350 --> 00:30:19,580
+We're resuming operations using the pilot communication system.
+
+517
+00:30:23,110 --> 00:30:27,580
+This is Transport Command.
+Attention all trains operating within our territory.
+
+518
+00:30:28,300 --> 00:30:34,160
+With the restoration of automatic block signals,
+we will be switching back from substitute block
+to automatic block sequentially—
+
+519
+00:30:35,177 --> 00:30:38,467
+The signals are fixed, so why are we stopped again?
+
+520
+00:30:39,030 --> 00:30:44,040
+Only the signals between stations have been restored.
+The station signals are still down.
+
+521
+00:30:48,430 --> 00:30:53,073
+If only the train on the opposite platform
+would depart...
+
+522
+00:30:53,273 --> 00:30:56,390
+But they're fumbling with manual procedures
+over there...
+
+523
+00:30:58,440 --> 00:31:01,100
+Th-Th-This is bad, driver!
+
+524
+00:31:01,600 --> 00:31:06,140
+The following train already caught up to us!
+
+525
+00:31:06,141 --> 00:31:07,141
+What!?
+
+526
+00:31:12,660 --> 00:31:15,720
+Transport Commaaaaand!
+
+527
+00:31:17,300 --> 00:31:18,300
+A deadlock?
+
+528
+00:31:19,335 --> 00:31:20,540
+Yes, I'm sorry.
+
+529
+00:31:21,122 --> 00:31:23,123
+During the block system changeover,
+
+530
+00:31:23,389 --> 00:31:27,823
+a misidentification of train positions
+led to incorrect departure orders,
+
+531
+00:31:27,848 --> 00:31:30,773
+resulting in trains unable to move.
+
+532
+00:31:31,105 --> 00:31:35,440
+If at least the train position display
+had been restored, this wouldn't have happened...
+
+533
+00:31:36,560 --> 00:31:38,360
+It's a deadlock!
+
+534
+00:31:38,460 --> 00:31:39,460
+Hm?
+
+535
+00:31:40,110 --> 00:31:42,160
+A deadlock!? At which station?
+
+536
+00:31:42,620 --> 00:31:44,960
+No, I mean inside the system.
+
+537
+00:31:46,150 --> 00:31:48,498
+According to the system developer,
+
+538
+00:31:48,632 --> 00:31:52,982
+it seems a deadlock is occurring
+in the operations rescheduling module.
+
+539
+00:31:54,160 --> 00:31:57,140
+Why would a deadlock happen inside the system?
+
+540
+00:31:57,880 --> 00:32:00,020
+Deadlocks are a train thing.
+
+541
+00:32:01,120 --> 00:32:02,140
+Well actually,
+
+542
+00:32:02,800 --> 00:32:04,560
+they happen inside systems too.
+
+543
+00:32:05,773 --> 00:32:08,123
+To prevent collisions, trains
+
+544
+00:32:08,215 --> 00:32:12,239
+are controlled by signals so only one train
+can be in a section at a time, right?
+
+545
+00:32:12,625 --> 00:32:14,120
+Yeah, that's block signaling.
+
+546
+00:32:15,680 --> 00:32:19,260
+What happens if a dispatch error puts trains
+going opposite directions together?
+
+547
+00:32:19,870 --> 00:32:22,520
+They block each other's path and can't move.
+
+548
+00:32:23,010 --> 00:32:24,200
+That's a deadlock.
+
+549
+00:32:25,640 --> 00:32:28,090
+In fact, data inside a system
+
+550
+00:32:28,140 --> 00:32:33,995
+is also controlled so only one person can edit it
+at a time, to prevent data corruption.
+
+551
+00:32:34,020 --> 00:32:35,200
+Same as block signaling.
+
+552
+00:32:36,630 --> 00:32:39,940
+And if data processing requests
+in different orders get mixed together?
+
+553
+00:32:40,340 --> 00:32:42,600
+A deadlock occurs.
+
+554
+00:32:43,690 --> 00:32:45,168
+So this trouble is basically
+
+555
+00:32:45,192 --> 00:32:47,888
+like a deadlock at a single station
+
+556
+00:32:47,912 --> 00:32:50,480
+bringing down the entire line?
+
+557
+00:32:51,420 --> 00:32:53,090
+Yes, most likely.
+
+558
+00:32:53,640 --> 00:32:58,900
+With this few terminals, it normally shouldn't
+be possible to take down the system.
+
+559
+00:32:59,330 --> 00:33:01,080
+That's what puzzled me until now.
+
+560
+00:33:01,830 --> 00:33:04,520
+But with a deadlock, even two terminals can do it.
+
+561
+00:33:05,360 --> 00:33:10,281
+But the operations rescheduling module
+is so resource-heavy we banned its use.
+
+562
+00:33:10,448 --> 00:33:13,265
+Who would be using that thing?
+
+563
+00:33:13,630 --> 00:33:17,406
+Whether it's a DoS attack or just a bug —
+that's the question.
+
+564
+00:33:18,073 --> 00:33:19,507
+Dos...koi!?
+
+565
+00:33:20,100 --> 00:33:24,520
+We detected suspicious traffic resembling
+a DoS attack from your IP address.
+
+566
+00:33:27,380 --> 00:33:29,673
+DoS attack.
+
+567
+00:33:29,990 --> 00:33:32,223
+DoS attack.
+
+568
+00:33:32,606 --> 00:33:34,223
+Dos...koi?
+
+569
+00:33:34,373 --> 00:33:37,273
+(Sumo wrestler) DOSUKOI!
+
+570
+00:33:41,256 --> 00:33:45,081
+Hey, hey, Akane, what's "dos...koi"?
+
+571
+00:33:45,215 --> 00:33:47,465
+It's a DoS attack.
+
+572
+00:33:47,798 --> 00:33:48,932
+(Sumo wrestler) DOSUKOI!
+
+573
+00:33:49,100 --> 00:33:55,880
+Well, in terms of bringing something down
+with brute force, that's not entirely off the mark.
+
+574
+00:33:56,960 --> 00:34:00,689
+Thank you for that... novel contribution.
+
+575
+00:34:01,156 --> 00:34:03,023
+That's not what I meant!
+
+576
+00:34:03,160 --> 00:34:04,160
+This morning!
+
+577
+00:34:04,660 --> 00:34:08,940
+I got a call about dos...koi and IPs and whatnot!
+
+578
+00:34:09,448 --> 00:34:12,181
+From some "Yoshimitsu" something or other.
+
+579
+00:34:12,282 --> 00:34:14,998
+From Professor Asagiri Yoshimitsu!?
+
+580
+00:34:15,170 --> 00:34:17,100
+The security expert!?
+
+581
+00:34:17,500 --> 00:34:18,589
+...Probably.
+
+582
+00:34:18,907 --> 00:34:21,889
+I thought it was a prank call, so I hung up.
+
+583
+00:34:23,389 --> 00:34:25,660
+Ah, pardon the sudden call.
+
+584
+00:34:26,180 --> 00:34:30,598
+This is Hosono from Kyoki Railway.
+
+585
+00:34:30,997 --> 00:34:32,663
+Grrrrrrr...
+
+586
+00:34:32,896 --> 00:34:36,060
+Whoa, he's really angry!
+
+587
+00:34:36,960 --> 00:34:39,120
+What!? Even external websites!?
+
+588
+00:34:39,845 --> 00:34:42,660
+Yes, it really does seem to be
+an indiscriminate attack.
+
+589
+00:34:43,489 --> 00:34:47,156
+Hmm, could it actually be a simple mechanism?
+
+590
+00:34:47,489 --> 00:34:48,539
+(Keyboard SFX) Beep beep beep...
+
+591
+00:34:48,564 --> 00:34:49,572
+Hm?
+
+592
+00:34:49,856 --> 00:34:51,339
+Emergency signal!?
+
+593
+00:34:53,180 --> 00:34:54,480
+Where!?
+
+594
+00:34:54,481 --> 00:34:56,496
+No, that's just a keyboard sound effect.
+
+595
+00:34:56,597 --> 00:34:58,463
+(Keyboard SFX) Beep beep beep...
+
+596
+00:34:58,647 --> 00:35:00,163
+(Managura) Oh, that's confusing.
+
+597
+00:35:00,590 --> 00:35:03,140
+I was testing my custom OS, and...
+
+598
+00:35:04,615 --> 00:35:07,320
+Playing around at a time like— Hm?
+
+599
+00:35:07,648 --> 00:35:09,365
+(Keyboard SFX) Beep beep beep...
+
+600
+00:35:09,560 --> 00:35:10,560
+(Akane) F5?
+
+601
+00:35:10,664 --> 00:35:12,860
+(Lt. Commander) F5! The F5 key!
+
+602
+00:35:13,440 --> 00:35:16,098
+(Lt. Commander) The F5 key is being pressed
+repeatedly on its own!?
+
+603
+00:35:16,431 --> 00:35:18,780
+So this is an "F5 attack"?
+
+604
+00:35:20,123 --> 00:35:21,273
+If it's the F5 key—
+
+605
+00:35:21,490 --> 00:35:23,723
+The operations rescheduling module!
+
+606
+00:35:24,857 --> 00:35:26,357
+That's it!
+
+607
+00:35:26,660 --> 00:35:32,140
+So the F5 attack triggered
+the operations rescheduling module,
+
+608
+00:35:33,580 --> 00:35:38,640
+which triggered its chronic deadlock bug,
+escalating into a system failure. Is that right?
+
+609
+00:35:40,326 --> 00:35:44,548
+However, to infect my custom OS...
+Quite the skilled adversary.
+
+610
+00:35:46,414 --> 00:35:48,898
+Regardless of the OS—
+
+611
+00:35:49,400 --> 00:35:50,720
+Could it be!?
+
+612
+00:35:50,848 --> 00:35:51,865
+(Keyboard SFX) Beep beep beep...
+
+613
+00:35:52,048 --> 00:35:53,782
+(Keyboard sound stops)
+
+614
+00:35:54,895 --> 00:35:57,114
+It stopped when I unplugged the keyboard.
+
+615
+00:35:57,398 --> 00:35:58,332
+(Managura) No way!
+
+616
+00:35:59,710 --> 00:36:00,710
+Hey, everyone!
+
+617
+00:36:00,870 --> 00:36:03,156
+Unplug your keyboards!
+
+618
+00:36:11,715 --> 00:36:13,615
+Ohh!
+
+619
+00:36:14,410 --> 00:36:16,960
+It was never a virus to begin with.
+
+620
+00:36:17,080 --> 00:36:21,448
+But didn't that guy remove
+a virus this morning?
+
+621
+00:36:21,698 --> 00:36:23,565
+(Phone vibration)
+
+622
+00:36:23,970 --> 00:36:24,970
+This is Yumesaki.
+
+623
+00:36:25,100 --> 00:36:28,380
+Is there anything suspicious connected to Terminal 13?
+
+624
+00:36:29,073 --> 00:36:31,580
+Terminal 13...
+
+625
+00:36:32,073 --> 00:36:33,223
+(Uyagawa) Heave-ho...
+
+626
+00:36:33,323 --> 00:36:34,390
+Ah!
+
+627
+00:36:39,949 --> 00:36:40,949
+Ow ow ow ow!
+
+628
+00:36:41,139 --> 00:36:42,139
+Hey!
+
+629
+00:36:42,280 --> 00:36:43,280
+What are you doing!?
+
+630
+00:36:44,030 --> 00:36:45,540
+Clever of you.
+
+631
+00:36:46,690 --> 00:36:49,389
+If you repeatedly press F5 on multiple terminals,
+
+632
+00:36:49,939 --> 00:36:52,960
+it causes a deadlock in the train operations
+management system.
+
+633
+00:36:55,040 --> 00:36:55,760
+Right?
+
+634
+00:36:55,810 --> 00:36:58,781
+You were rejected during the Train Operations
+Management System renewal project
+
+635
+00:36:58,965 --> 00:37:02,348
+by the Chief Dispatcher, weren't you, Mr. Uyagawa?
+
+636
+00:37:02,847 --> 00:37:04,563
+Furthermore,
+
+637
+00:37:05,280 --> 00:37:08,313
+a small computer was hidden inside the keyboard,
+
+638
+00:37:08,513 --> 00:37:13,447
+programmed to trigger the F5 barrage only when
+the Scroll Lock key was turned on.
+
+639
+00:37:15,240 --> 00:37:16,240
+Right?
+
+640
+00:37:16,960 --> 00:37:21,060
+The person who could remove a virus
+just by toggling Scroll Lock — Mr. Uyagawa?
+
+641
+00:37:23,060 --> 00:37:29,000
+These keyboards were purchased from your company,
+Kyotetsu IT Solutions.
+
+642
+00:37:30,180 --> 00:37:31,180
+Right?
+
+643
+00:37:31,560 --> 00:37:33,540
+A supply chain attack, in a way!
+
+644
+00:37:35,565 --> 00:37:36,565
+Mr. Uyagawa?
+
+645
+00:37:38,960 --> 00:37:40,400
+Ha ha ha...
+
+646
+00:37:40,450 --> 00:37:42,180
+Go ask the keyboard supplier!
+
+647
+00:37:42,680 --> 00:37:43,680
+It wasn't me!
+
+648
+00:37:43,940 --> 00:37:44,940
+Is that so?
+
+649
+00:37:45,720 --> 00:37:47,665
+From what we heard about the Agaho incident,
+
+650
+00:37:47,915 --> 00:37:51,615
+it seems you knew everything from the start.
+
+651
+00:37:51,782 --> 00:37:54,082
+Yeah, I knew about the keyboard defect.
+
+652
+00:37:54,710 --> 00:37:58,189
+Then why, when the operations management system
+went down,
+
+653
+00:37:58,407 --> 00:38:02,523
+didn't you point out the keyboard anomaly?
+
+654
+00:38:02,630 --> 00:38:08,580
+No — rather, why didn't you propose
+replacing the keyboards much sooner?
+
+655
+00:38:09,200 --> 00:38:12,500
+Well, Mr. Uyagawa, you ninja washout?
+
+656
+00:38:13,810 --> 00:38:17,000
+But Scroll Lock doesn't turn on by itself!
+
+657
+00:38:19,530 --> 00:38:22,700
+Indeed, that puzzled me too.
+
+658
+00:38:23,460 --> 00:38:27,300
+The F5 barrage wouldn't trigger
+unless someone turned it on.
+
+659
+00:38:28,070 --> 00:38:30,840
+(Uyagawa) It was the PR Department's
+Ultimate Bug Trigger!
+
+660
+00:38:31,690 --> 00:38:36,620
+True, at least the incidents in the PR Division
+were caused that way.
+
+661
+00:38:37,682 --> 00:38:38,848
+However—
+
+662
+00:38:39,310 --> 00:38:43,848
+Mr. Uyagawa, this USB drive you were carrying—
+
+663
+00:38:43,998 --> 00:38:47,582
+something curious happens when you plug it in.
+
+664
+00:38:48,789 --> 00:38:53,165
+Despite being a USB drive,
+it behaves like a keyboard,
+
+665
+00:38:53,298 --> 00:38:57,465
+automatically inputting the Scroll Lock key
+and turning Scroll Lock on.
+
+666
+00:38:57,632 --> 00:38:59,615
+Heh heh heh.
+
+667
+00:39:00,340 --> 00:39:01,700
+And that's not all.
+
+668
+00:39:02,536 --> 00:39:05,174
+It opens "Run",
+
+669
+00:39:05,336 --> 00:39:08,236
+and using a combination of PowerShell and psexec,
+
+670
+00:39:08,435 --> 00:39:13,904
+it turns on Scroll Lock
+on every computer in the network.
+
+671
+00:39:16,150 --> 00:39:20,300
+And it's thoughtfully designed to execute
+every few minutes.
+
+672
+00:39:20,630 --> 00:39:25,120
+Ha, ha ha ha...
+Quite an elaborate method, isn't it?
+
+673
+00:39:25,500 --> 00:39:28,940
+But I saw something suspicious plugged in
+and removed it.
+
+674
+00:39:29,280 --> 00:39:30,280
+That's all.
+
+675
+00:39:32,032 --> 00:39:34,615
+Oh? Even now, you maintain that?
+
+676
+00:39:35,364 --> 00:39:36,798
+However,
+
+677
+00:39:36,823 --> 00:39:41,882
+the moment you plugged in that USB drive
+was caught on camera.
+
+678
+00:39:41,907 --> 00:39:44,178
+By this fine fellow.
+
+679
+00:39:45,281 --> 00:39:46,648
+Bzzz.
+
+680
+00:39:46,732 --> 00:39:49,498
+The multi-purpose self-propelled Pachira unit.
+
+681
+00:39:50,815 --> 00:39:51,882
+Huh!?
+
+682
+00:39:56,090 --> 00:39:59,820
+What's more, the TV camera also caught you
+from another angle.
+
+683
+00:40:01,045 --> 00:40:06,700
+And you know, psexec does leave traces
+in the logs, Mr. Uyagawa.
+
+684
+00:40:07,260 --> 00:40:10,100
+That's right. There's no escape now.
+
+685
+00:40:11,690 --> 00:40:16,781
+The culprit is you, Uyagawa Yasu.
+
+686
+00:40:16,982 --> 00:40:20,082
+Q.E.D.
+
+687
+00:40:28,890 --> 00:40:31,790
+I get off work in 30 minutes,
+
+688
+00:40:31,940 --> 00:40:34,873
+so confess already, would you?
+
+689
+00:40:35,423 --> 00:40:37,707
+Damn it! Damn it!
+
+690
+00:40:38,473 --> 00:40:41,823
+Yeah, that attitude is what pisses me off!
+
+691
+00:40:42,023 --> 00:40:44,620
+So what if you're the parent company!?
+You're all garbage!
+
+692
+00:40:45,375 --> 00:40:48,020
+After everything I've done for you,
+every last one of you!
+
+693
+00:40:49,065 --> 00:40:50,600
+That's why I did it.
+
+694
+00:40:51,400 --> 00:40:54,145
+(Yumesaki) Uyagawa, I understand how you feel, but...
+
+695
+00:40:54,169 --> 00:40:57,970
+(Akane) Well, they really are garbage, but...
+what else is new?
+
+696
+00:40:57,994 --> 00:41:01,340
+...It's because of your garbage projects
+that we got demoted!
+
+697
+00:41:02,320 --> 00:41:04,381
+Well, anticipating something like this,
+
+698
+00:41:04,432 --> 00:41:06,798
+I'd been quietly setting this up for three years.
+
+699
+00:41:07,448 --> 00:41:09,615
+(Katsuragi) What did you say!?
+
+700
+00:41:11,170 --> 00:41:13,820
+Do you have any idea how much damage
+you've caused!?
+
+701
+00:41:14,760 --> 00:41:16,440
+Ha ha ha ha ha!
+
+702
+00:41:16,490 --> 00:41:17,960
+You brought this on yourselves!
+
+703
+00:41:18,660 --> 00:41:23,100
+Your behavior made everyone
+start covering things up.
+
+704
+00:41:23,935 --> 00:41:25,923
+That's why the response was delayed!
+
+705
+00:41:26,039 --> 00:41:29,420
+Congratulations! You're an "accomplice"
+of the hacker!
+
+706
+00:41:29,960 --> 00:41:30,960
+Ha ha ha ha!
+
+707
+00:41:31,080 --> 00:41:32,180
+Show me!
+
+708
+00:41:32,600 --> 00:41:35,440
+That "railroader's pride" of yours!
+
+709
+00:41:35,840 --> 00:41:38,020
+Ha ha ha ha ha ha ha!
+
+710
+00:41:46,690 --> 00:41:49,780
+Yesterday, I cleaned up my room.
+
+711
+00:41:50,520 --> 00:41:53,020
+Oh, that's rare.
+
+712
+00:41:54,543 --> 00:41:55,543
+Eek!
+
+713
+00:42:01,890 --> 00:42:03,390
+My ears!
+
+714
+00:42:27,840 --> 00:42:30,190
+Ah! A U-F-O!
+
+715
+00:42:31,020 --> 00:42:33,340
+Oh, you're right!
+
+716
+00:42:35,270 --> 00:42:37,360
+A "U-FO"...nium (euphonium)!?
+
+717
+00:42:42,773 --> 00:42:43,606
+(Performance)
+
+718
+00:42:55,781 --> 00:42:58,081
+Wait, this is a tuba!
+
+719
+00:42:58,220 --> 00:42:59,620
+I thought it was heavy.
+
+720
+00:43:00,240 --> 00:43:01,295
+Well then!
+
+721
+00:43:01,379 --> 00:43:02,445
+Bye-bye!
+
+722
+00:43:02,800 --> 00:43:03,800
+Oh no!
+
+723
+00:43:04,350 --> 00:43:06,900
+The tsukkomi-bait vulnerability got me...
+
+724
+00:43:07,380 --> 00:43:13,589
+I was so close... to leaving on time...
+
+725
+00:43:13,690 --> 00:43:17,507
+There's nothing we can "doe" about it!
+Gotta protect that clock-out time!
+
+726
+00:43:17,820 --> 00:43:20,265
+Raaaaahh!
+
+727
+00:43:24,782 --> 00:43:27,032
+Heh heh heh heh.
+
+728
+00:43:29,465 --> 00:43:31,532
+(Uyagawa) Skippity-skip-skip-skip~
+
+729
+00:43:32,173 --> 00:43:33,640
+Whee-hee!
+
+730
+00:43:33,957 --> 00:43:35,907
+Ugh, no way... I can't...
+
+731
+00:43:39,790 --> 00:43:42,273
+(Uyagawa) Adios!
+
+732
+00:43:42,890 --> 00:43:44,840
+Bye-bye~
+
+733
+00:43:44,915 --> 00:43:46,098
+(Akane) Ahhh...
+
+734
+00:43:46,123 --> 00:43:47,198
+(Uyagawa) Ha ha ha ha!
+
+735
+00:43:47,248 --> 00:43:48,564
+(Siren sound)
+(Akane) Huh?
+
+736
+00:43:48,848 --> 00:43:51,465
+Akaneeee!
+
+737
+00:43:51,548 --> 00:43:52,614
+Wha!?
+
+738
+00:43:53,765 --> 00:43:55,798
+What is... going on?
+
+739
+00:43:57,148 --> 00:44:00,115
+I thought about what I have to offer.
+
+740
+00:44:00,882 --> 00:44:02,648
+Connections.
+
+741
+00:44:03,948 --> 00:44:05,382
+Kyaaaa!
+
+742
+00:44:06,748 --> 00:44:08,700
+Emergency vehicle coming through!
+
+743
+00:44:10,207 --> 00:44:14,656
+(Singing) Momotaro-san, Momotaro-san...
+
+744
+00:44:29,115 --> 00:44:31,098
+We're out of gas...!
+
+745
+00:44:36,120 --> 00:44:38,280
+Kyotetsu Bus, please help!
+
+746
+00:44:39,140 --> 00:44:40,740
+You got it! Leave it to me!
+
+747
+00:44:48,520 --> 00:44:53,780
+Wait for meee! Leaving on tiiiime!
+
+748
+00:44:54,748 --> 00:44:56,798
+...Exercise... no good.
+
+749
+00:44:59,615 --> 00:45:01,832
+Akaneeee!
+
+750
+00:45:02,015 --> 00:45:06,932
+When you're bad at something,
+just rely on someone who's good at it!
+
+751
+00:45:08,970 --> 00:45:10,036
+Oh, right.
+
+752
+00:45:10,061 --> 00:45:11,507
+(Phone ringing)
+
+753
+00:45:14,040 --> 00:45:15,540
+Grr!
+
+754
+00:45:19,457 --> 00:45:20,873
+Grr!!
+
+755
+00:45:23,998 --> 00:45:24,998
+Grr...
+
+756
+00:45:26,398 --> 00:45:28,132
+Leave it to me, Akane!
+
+757
+00:45:35,107 --> 00:45:37,490
+Raaaaaahhh!
+
+758
+00:45:39,557 --> 00:45:42,040
+Raaaaaahhh!
+
+759
+00:45:43,973 --> 00:45:46,190
+Raaaaaahhh!
+
+760
+00:45:46,580 --> 00:45:47,580
+Go!
+
+761
+00:45:49,131 --> 00:45:52,281
+Raaaaaahhhhhh!
+(PA) The Tokyo-bound train is now departing.
+
+762
+00:45:52,482 --> 00:45:55,348
+(PA) The doors are closing. Please stand clear.
+
+763
+00:45:57,032 --> 00:45:58,332
+Huh!?
+
+764
+00:46:00,986 --> 00:46:02,906
+Oh no!
+
+765
+00:46:03,173 --> 00:46:04,390
+Bye-bye~
+
+766
+00:46:04,557 --> 00:46:07,423
+Stop right theeeere!
+
+767
+00:46:08,823 --> 00:46:09,889
+Huh?
+
+768
+00:46:12,248 --> 00:46:14,000
+Railway police!
+
+769
+00:46:15,685 --> 00:46:19,731
+Under arrest for Obstruction of Business
+by Damaging a Computer—
+
+770
+00:46:19,898 --> 00:46:21,565
+You're under arrest!
+
+771
+00:46:22,035 --> 00:46:23,776
+Ow! Ow ow ow ow ow!
+
+772
+00:46:23,860 --> 00:46:26,100
+4:59 PM. Arrested!
+
+773
+00:46:27,780 --> 00:46:30,020
+I've always wanted to say that!
+
+774
+00:46:30,044 --> 00:46:32,170
+Akane, did you hear!?
+
+775
+00:46:32,194 --> 00:46:35,853
+(Phone) Like, a guy in a full bodysuit
+was the culprit? Way too obvious.
+
+776
+00:46:35,894 --> 00:46:37,497
+(Phone) First time I've seen one in real life.
+
+777
+00:46:38,506 --> 00:46:43,101
+Well, in any case, case closed.
+
+778
+00:46:48,515 --> 00:46:52,948
+Our obsession with the ideal of
+"zero security incidents"
+
+779
+00:46:53,182 --> 00:46:58,365
+left our emergency response capabilities
+underdeveloped. We cannot deny that.
+
+780
+00:47:00,240 --> 00:47:05,573
+We will promptly review our security response
+and training systems,
+
+781
+00:47:05,890 --> 00:47:10,907
+and establish a cross-departmental
+dedicated security team.
+
+782
+00:47:15,947 --> 00:47:19,702
+We deeply apologize to our passengers
+
+783
+00:47:19,727 --> 00:47:23,220
+and all parties involved
+
+784
+00:47:23,245 --> 00:47:27,291
+for the inconvenience and concern we have caused.
+
+785
+00:47:28,770 --> 00:47:30,490
+We are truly sorry.
+
+786
+00:47:41,455 --> 00:47:42,510
+Regarding this incident,
+
+787
+00:47:52,170 --> 00:47:56,090
+their prompt disclosure of facts and investigation results
+is commendable.
+
+788
+00:47:59,100 --> 00:48:03,430
+So just deploying security products
+isn't enough to be safe.
+
+789
+00:48:05,210 --> 00:48:09,930
+Every individual — management and employees alike —
+must have a sense of ownership.
+
+790
+00:48:11,506 --> 00:48:15,245
+Assuming attacks will come,
+whether internal or external,
+
+791
+00:48:15,269 --> 00:48:19,898
+establishing incident response systems
+and continuously reviewing them,
+
+792
+00:48:20,115 --> 00:48:24,482
+in a way that fits the organization's culture —
+that's what's needed.
+
+793
+00:48:26,248 --> 00:48:29,090
+And stop hanging up phone calls!
+
+794
+00:48:33,090 --> 00:48:37,073
+Cyberattacks on critical infrastructure
+are expected to increase.
+
+795
+00:48:37,257 --> 00:48:42,340
+All eyes are on Kyoki Railway's future initiatives.
+
+796
+00:48:48,180 --> 00:48:52,590
+So Katsuragi got exiled. Serves him right.
+
+797
+00:48:54,690 --> 00:48:57,313
+Still, it wasn't just his problem alone.
+
+798
+00:48:57,480 --> 00:48:59,956
+In terms of a sense of ownership...
+
+799
+00:49:01,150 --> 00:49:02,150
+Yeah.
+
+800
+00:49:02,740 --> 00:49:07,910
+I never thought railway and information security
+had so much in common.
+
+801
+00:49:09,930 --> 00:49:12,510
+Hey, you've been thinking about something,
+haven't you?
+
+802
+00:49:14,115 --> 00:49:15,282
+Yes.
+
+803
+00:49:15,330 --> 00:49:19,836
+The System Division was originally just parked
+under PR for budget reasons,
+
+804
+00:49:19,860 --> 00:49:24,153
+but I'm thinking we should make better use
+of our position in PR.
+
+805
+00:49:44,539 --> 00:49:45,740
+CSIRT?
+
+806
+00:49:45,910 --> 00:49:50,320
+Yes, a cross-departmental team
+that handles security incidents.
+
+807
+00:49:51,720 --> 00:49:54,060
+Oh, what they announced at the press conference.
+
+808
+00:49:55,200 --> 00:49:57,140
+We still have a long way to go, though.
+
+809
+00:49:58,250 --> 00:50:02,580
+We need to earn trust so that reports
+and communication flow to us naturally.
+
+810
+00:50:04,680 --> 00:50:08,461
+Come to think of it, the key to solving this case
+
+811
+00:50:08,485 --> 00:50:10,320
+was Agaho's tip-off.
+
+812
+00:50:11,160 --> 00:50:12,160
+Well...
+
+813
+00:50:14,539 --> 00:50:17,061
+In that sense, Agaho,
+
+814
+00:50:17,418 --> 00:50:20,272
+thank you as always.
+
+815
+00:50:29,413 --> 00:50:31,580
+Nice! Keep up the good work!
+
+816
+00:50:31,746 --> 00:50:33,135
+And so, this time,
+
+817
+00:50:33,159 --> 00:50:36,746
+we've decided to hire an ethical hacker
+for the company.
+
+818
+00:50:37,013 --> 00:50:38,413
+What!?
+
+819
+00:50:38,480 --> 00:50:40,613
+(Ethical Hacker) Ethical~!
+
+820
+00:50:40,746 --> 00:50:44,160
+Ha ha... It seems we still have
+a long road ahead...
+
+821
+00:55:16,279 --> 00:55:19,346
+The current year is Showa 99.
+
+822
+00:55:35,512 --> 00:55:41,512
+
