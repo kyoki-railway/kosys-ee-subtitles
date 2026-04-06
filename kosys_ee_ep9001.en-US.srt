@@ -12,7 +12,7 @@ A staff exchange?
 
 4
 00:00:25,708 --> 00:00:28,666
-That's right. This year, it's a joint program with the Transport Command division too.
+Yeah, this year it's a joint program with the Transport Command division too.
 
 5
 00:00:29,208 --> 00:00:30,720
@@ -100,7 +100,7 @@ Now then, Hosono-san and Agaho-san -- our new hire will show you around.
 
 26
 00:01:40,534 --> 00:01:41,541
-Okay.
+(Akane / Mei) Yes.
 
 27
 00:01:41,541 --> 00:01:44,367
@@ -128,15 +128,15 @@ But I refuse.
 
 33
 00:01:54,916 --> 00:01:56,875
-Whyyy?!
+(Mei) Whyyy?!
 
 34
 00:01:56,875 --> 00:02:01,046
-I'm swamped arranging the crowdfunding reward perks right now.
+(Mega) I'm swamped arranging the crowdfunding reward perks right now.
 
 35
 00:02:01,070 --> 00:02:06,458
-This year's Hot Spring Safflower Train was funded by contributions from lots of supporters.
+(Mega) This year's Hot Spring Safflower Train was funded by contributions from lots of supporters.
 
 36
 00:02:06,791 --> 00:02:09,291
@@ -148,7 +148,7 @@ Through crowdfunding?
 
 38
 00:02:10,541 --> 00:02:13,813
-Yes. Our railway basically only carries tourists,
+(Mega) Yes. Our railway basically only carries tourists,
 
 39
 00:02:13,837 --> 00:02:16,661
@@ -176,18 +176,18 @@ Hello, Zaō Kōsoku Electric Railway.
 
 45
 00:02:33,952 --> 00:02:41,875
-What...? The delivery? ...I see.
+What...? The delivery? ...I see
 
 46
 00:02:41,875 --> 00:02:43,750
 It's over.
 
 47
-00:02:44,750 --> 00:02:46,750
+00:02:44,750 --> 00:02:46,140
 ...We're done for.
 
 48
-00:02:46,783 --> 00:02:48,289
+00:02:46,206 --> 00:02:48,289
 Huh, what happened?
 
 49
@@ -235,32 +235,35 @@ Right!
 STOP!
 
 60
-00:03:22,625 --> 00:03:28,625
-Don't send it. Step away from the computer with your hands up.
+00:03:22,625 --> 00:03:27,378
+Don't send it. Step away from the computer
+with your hands up.
 
 61
-00:03:28,625 --> 00:03:30,500
+00:03:27,403 --> 00:03:28,678
 Huh? What?
 
 62
 00:03:30,500 --> 00:03:35,875
-You've put every single customer's email address in the To field.
+(Akane) You've put every single customer's email address
+in the To field.
 
 63
 00:03:35,875 --> 00:03:37,666
-So?
+(Mei) So?
 
 64
-00:03:37,666 --> 00:03:43,500
-Email addresses in the To or CC fields are visible to every recipient!
+00:03:37,666 --> 00:03:42,895
+Email addresses in the To or CC fields
+are visible to every recipient!
 
 65
-00:03:43,500 --> 00:03:45,500
-That would be a personal information leak?!
+00:03:42,979 --> 00:03:45,500
+(Mega) That would be a personal information leak?!
 
 66
 00:03:45,656 --> 00:03:49,431
-Yes. When sending a mass email,
+(Akane) Yes. When sending a mass email,
 
 67
 00:03:49,455 --> 00:03:53,834
@@ -276,31 +279,32 @@ That way, the recipients' addresses won't be visible to the others.
 
 70
 00:04:02,416 --> 00:04:04,083
-I had no idea!
+(Mega) I had no idea!
 
 71
 00:04:04,083 --> 00:04:09,444
-Actually, for this case, let's use the crowdfunding site's messaging feature instead of email.
+Actually, for this case, let's use the crowdfunding site's
+messaging feature instead of email.
 
 72
 00:04:09,468 --> 00:04:11,041
 That'll be more reliable.
 
 73
-00:04:11,750 --> 00:04:17,500
-Okay.
+00:04:11,725 --> 00:04:13,213
+(Mega) Okay.
 
 74
-00:04:17,500 --> 00:04:20,375
-...Sending now.
+00:04:17,500 --> 00:04:18,830
+(Mega) ...Sending now.
 
 75
-00:04:20,375 --> 00:04:23,866
-We're so sorry... So very sorry...
+00:04:19,430 --> 00:04:23,866
+(Mega) We're so sorry... So very sorry...
 
 76
-00:04:27,541 --> 00:04:30,916
-Well, here it comes...
+00:04:26,808 --> 00:04:29,180
+(Mega) Well, here it comes...
 
 77
 00:04:30,916 --> 00:04:32,583
@@ -308,7 +312,7 @@ Should I answer it?
 
 78
 00:04:32,583 --> 00:04:36,666
-No, I will. I'm prepared for the worst.
+No, I will -- I'm prepared for the worst.
 
 79
 00:04:36,666 --> 00:04:39,916
@@ -320,15 +324,16 @@ I read the message.
 
 81
 00:04:43,958 --> 00:04:51,166
-I'll wait for the finished product even if it's late! Keep at it! I'm rooting for you!
+I'll wait for the finished product even if it's late!
+Keep at it! I'm rooting for you!
 
 82
 00:04:51,166 --> 00:04:53,333
-I'm a fan. Hang in there!
+I'm a fan -- hang in there!
 
 83
 00:04:53,666 --> 00:04:55,333
-I-It's only this once, okay?!
+I-- it's only this once, okay?!
 
 84
 00:04:55,333 --> 00:04:59,125
@@ -356,15 +361,16 @@ Hello, Zaō Kōsoku Electric Railway.
 
 90
 00:05:16,625 --> 00:05:23,416
-I know a factory that can make those goods! I'll put you in touch! Oh, and I'd like to buy platform tickets -- for every station!
+I know a factory that can make those goods!
+I'll put you in touch! Oh, and I'd like to buy platform tickets -- for every station!
 
 91
 00:05:23,416 --> 00:05:24,708
-R-Really?!
+R-- really?!
 
 92
-00:05:24,708 --> 00:05:29,833
-Hmm, that voice just now sounded familiar somehow...
+00:05:24,708 --> 00:05:27,490
+(Akane) Hmm, that voice just now sounded familiar somehow...
 
 93
 00:05:29,833 --> 00:05:34,708
@@ -388,14 +394,15 @@ By the way, what exactly is the Hot Spring Safflower Train?
 
 98
 00:05:45,125 --> 00:05:52,458
-It's a special train that departs from our Zao-Onsen Station, runs via the national railway, and goes all the way to Takase Station -- famous for its safflower fields.
+It's a special train that departs from our Zao-Onsen Station, runs via the national railway,
+and goes all the way to Takase Station -- famous for its safflower fields.
 
 99
 00:05:53,500 --> 00:05:59,000
 The safflower fields stretching out as far as you can see, all dyed in orange -- they're beautiful.
 
 100
-00:05:59,000 --> 00:06:01,458
+00:05:59,000 --> 00:06:03,048
 Huh, "crimson" flower but they're orange! I wanna see that!
 
 101
@@ -415,11 +422,11 @@ But the Cosmos Berg at Mt. Omoshiroyama is about to be in full bloom!
 Mt. Omoshiroyama? Sounds like a fun place!
 
 105
-00:06:17,625 --> 00:06:22,125
+00:06:17,625 --> 00:06:21,159
 As a thank-you for this week, I'll take everyone there!
 
 106
-00:06:22,125 --> 00:06:26,250
+00:06:21,270 --> 00:06:23,026
 Really? Are you sure?!
 
 107
@@ -427,11 +434,11 @@ Really? Are you sure?!
 Next stop, Omoshiroyama-Kogen. Next stop, Omoshiroyama-Kogen.
 
 108
-00:06:38,208 --> 00:06:40,708
+00:06:38,208 --> 00:06:40,070
 Wow!
 
 109
-00:06:40,708 --> 00:06:43,166
+00:06:40,159 --> 00:06:43,166
 Yellow cosmos flowers everywhere!
 
 110
@@ -440,164 +447,171 @@ Beautiful!
 
 111
 00:06:44,916 --> 00:06:52,750
-What a lovely place. I'd like to come back for the safflowers next time. I wonder if they look something like this...
+What a lovely place -- I'd like to come back for the safflowers next time.
+I wonder if they look something like this...
 
 112
 00:06:52,750 --> 00:06:57,708
 Come to think of it, safflowers and cosmos are both in the Asteraceae family, right?
 
 113
-00:06:58,250 --> 00:07:04,500
+00:06:58,250 --> 00:07:01,716
 Why would you "aster" me that?
 
 114
-00:07:04,500 --> 00:07:11,416
-Oh! This is actually a ski resort! Too bad we can't ski right now.
+00:07:02,050 --> 00:07:03,883
+Ugh...
 
 115
-00:07:11,791 --> 00:07:14,500
-Don't worry. You can still do some sliding here.
+00:07:04,500 --> 00:07:11,416
+Oh! This is actually a ski resort!
+Too bad we can't ski right now.
 
 116
+00:07:11,791 --> 00:07:14,500
+(President) Don't worry. You can still do some sliding here!
+
+117
 00:07:15,000 --> 00:07:16,208
 Really?!
 
-117
-00:07:16,875 --> 00:07:19,750
+118
+00:07:16,875 --> 00:07:20,123
 At Cosmos Berg, even the jokes fall flat-berg!
 
-118
-00:07:19,750 --> 00:07:22,541
+119
+00:07:22,634 --> 00:07:23,830
 Ugh...
 
-119
-00:07:22,541 --> 00:07:28,500
+120
+00:07:24,012 --> 00:07:27,145
 Hot springs... I just want to go to the hot springs...
 
-120
+121
 00:07:28,500 --> 00:07:34,833
 Well, I guess Mt. Omoshiroyama certainly has some... interesting characters!
 
-121
+122
 00:08:35,383 --> 00:08:36,983
 Revival!!
 
-122
-00:08:48,039 --> 00:08:52,094
-I've always liked you. It's only ever been you.
-
 123
+00:08:48,039 --> 00:08:52,094
+I've always liked you.
+It's only ever been you.
+
+124
 00:08:52,119 --> 00:08:53,183
 Huh...?
 
-124
+125
 00:08:53,208 --> 00:08:55,828
 So... would you go out with me?
 
-125
-00:09:01,284 --> 00:09:04,895
-...You win. I admit total defeat.
-
 126
+00:09:01,284 --> 00:09:04,895
+...You win -- I admit total defeat.
+
+127
 00:09:04,934 --> 00:09:07,056
 Th-Then, does that mean we're officially a couple--
 
-127
+128
 00:09:07,112 --> 00:09:08,767
 No, it doesn't.
 
-128
+129
 00:09:09,289 --> 00:09:11,378
 Whaaaat?!
 
-129
+130
 00:09:11,867 --> 00:09:14,578
 I told you this evening, didn't I?
 
-130
+131
 00:09:15,456 --> 00:09:17,389
 "Will you marry me?"
 
-131
+132
 00:09:32,184 --> 00:09:35,117
 Akane-san?! What are you doing?!
 
-132
+133
 00:09:35,217 --> 00:09:36,384
 Urgh!?
 
-133
+134
 00:09:36,430 --> 00:09:39,070
 You should be more afraid of risks!
 
-134
+135
 00:09:39,110 --> 00:09:42,897
 Do you even realize how many people have died because of our carelessness?!
 
-135
+136
 00:09:44,414 --> 00:09:48,094
 You could have been killed too!
 
-136
+137
 00:09:58,818 --> 00:10:00,752
 Oh-hohohoho!
 
-137
+138
 00:10:00,778 --> 00:10:04,338
 Our company is going DX -- Deluxe, that is!
 
-138
+139
 00:10:18,574 --> 00:10:21,467
 An announcement from Astro Railway Corporation!
 
-139
+140
 00:10:25,160 --> 00:10:30,347
 At last -- a service that lets you book every transit system in the entire solar system!
 
-140
+141
 00:10:35,600 --> 00:10:36,800
 Its name--
 
-141
+142
 00:10:37,334 --> 00:10:39,093
 Mars.
 
-142
+143
 00:10:50,585 --> 00:10:53,426
 Do you have any idea how much damage
 
-143
+144
 00:10:53,450 --> 00:10:56,278
 the security incidents we've had before have caused?
 
-144
+145
 00:10:56,465 --> 00:10:59,972
 Incidents will happen. That's a certainty.
 
-145
+146
 00:11:00,145 --> 00:11:03,918
 Security measures, railway safety measures --
 
-146
+147
 00:11:04,145 --> 00:11:07,732
 they don't generate any direct economic benefit.
 
-147
+148
 00:11:08,425 --> 00:11:11,798
 But with proper preparation, we can reduce the damage.
 
-148
+149
 00:11:12,545 --> 00:11:17,065
 We need to invest in being ready for the worst-case scenario.
 
-149
+150
 00:11:28,913 --> 00:11:33,547
 Ahh...
 
-150
+151
 00:11:34,180 --> 00:11:37,980
 Ahh...
 
-151
+152
 00:11:38,413 --> 00:11:42,180
 Ahhhh...

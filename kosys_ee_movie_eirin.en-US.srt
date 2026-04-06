@@ -476,8 +476,9 @@ I heard someone in the International Division got demoted.
 You'd better be especially careful, Mei...
 
 118
-00:08:38,170 --> 00:08:41,930
+00:08:38,170 --> 00:08:44,386
 Unfortunately, that concern is well-founded.
+(Katsuragi) I want you all to think about our company's role in the local community.
 
 119
 00:08:44,980 --> 00:08:48,646
@@ -502,7 +503,7 @@ Uuugh... my computer is acting weird.
 
 124
 00:09:08,560 --> 00:09:11,040
-She just said that and already...
+(Section Chief Yobe) She just said that and already...
 
 125
 00:09:12,740 --> 00:09:15,406
@@ -739,11 +740,11 @@ Oh, th-thank you for your continued support.
 
 182
 00:12:57,230 --> 00:12:58,230
-Hm?
+(Phone voice) ...Huh?
 
 183
 00:12:58,340 --> 00:12:59,599
-(Phone voice) ...Wait, Akane?
+(Phone voice) Akane?
 
 184
 00:13:00,200 --> 00:13:01,033
@@ -780,7 +781,7 @@ and university as me.
 
 192
 00:13:24,020 --> 00:13:25,613
-Nice to meet you!
+(Phone voice) Looking forward to working with you!
 
 193
 00:13:27,030 --> 00:13:30,063
@@ -899,7 +900,7 @@ Let's organize the information we have.
 
 221
 00:15:01,020 --> 00:15:04,560
-(Lt. Commander) The station and operations data transfer
+(Lt. Commander) The station and fare data transfer
 to National Railways keeps terminating abnormally.
 
 222

@@ -100,11 +100,11 @@ Oh, th-thank you for your continued support.
 
 26
 00:03:17,830 --> 00:03:18,830
-Hm?
+(Phone voice) ...Huh?
 
 27
 00:03:18,940 --> 00:03:20,199
-(Phone voice) ...Wait, Akane?
+(Phone voice) Akane?
 
 28
 00:03:20,800 --> 00:03:21,866
@@ -140,7 +140,7 @@ This person went to the same high school and university as me.
 
 36
 00:03:44,620 --> 00:03:46,213
-Looking forward to working with you!
+(Phone voice) Looking forward to working with you!
 
 37
 00:03:46,440 --> 00:03:50,663
@@ -256,7 +256,7 @@ Let's organize the information we have.
 
 65
 00:05:21,620 --> 00:05:25,160
-(Lt. Commander) The station and operations data transfer to National Railways keeps terminating abnormally.
+(Lt. Commander) The station and fare data transfer to National Railways keeps terminating abnormally.
 
 66
 00:05:26,050 --> 00:05:29,600

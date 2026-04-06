@@ -512,7 +512,8 @@ That's why I did it.
 
 127
 00:07:25,974 --> 00:07:29,320
-...It's because of your garbage projects that we got demoted!
+...It's because of your garbage projects
+that we got demoted!
 
 128
 00:07:30,300 --> 00:07:32,361
