@@ -1,892 +1,912 @@
 1
+00:00:00,650 --> 00:00:02,050
+It has to be a virus.
+
+2
+00:00:02,583 --> 00:00:03,650
+It's all my fault...
+
+3
+00:00:04,333 --> 00:00:05,783
+Because of me...
+
+4
+00:00:06,366 --> 00:00:07,417
+Ugh...
+
+5
+00:00:07,483 --> 00:00:11,550
+What do I do? What do I do? What do I do...
+
+6
 00:00:15,212 --> 00:00:16,238
 !
 
-2
+7
 00:00:17,418 --> 00:00:19,397
 Hmm...
 
-3
+8
 00:00:19,720 --> 00:00:22,220
 (Section Chief Yobe) Stop causing trouble for other people!
 
-4
+9
 00:00:23,920 --> 00:00:24,920
 That's it!
 
-5
+10
 00:00:25,280 --> 00:00:27,040
 Akane isn't "other people"!
 
-6
+11
 00:00:27,720 --> 00:00:30,156
 I can just ask Akane for help!
 
-7
+12
 00:00:30,980 --> 00:00:33,290
 Akaneeee!
 
-8
+13
 00:00:33,520 --> 00:00:34,520
 Here we go.
 
-9
+14
 00:00:35,200 --> 00:00:37,799
 Akaneeeeeee!
 
-10
+15
 00:00:38,900 --> 00:00:42,914
 It's all my fault... It's all my fault...
 
-11
+16
 00:00:42,983 --> 00:00:44,842
 Please calm down.
 
-12
+17
 00:00:45,330 --> 00:00:46,330
 It's okay.
 
-13
+18
 00:00:46,715 --> 00:00:49,400
 If you turn yourself in, the sentence will be lighter.
 
-14
+19
 00:00:49,533 --> 00:00:52,900
 I didn't do anything!
 
-15
+20
 00:00:53,250 --> 00:00:56,050
 This one's contradicting herself already.
 
-16
+21
 00:00:58,430 --> 00:01:01,490
 It seems like the transport management system is having issues too.
 
-17
+22
 00:01:02,030 --> 00:01:03,190
 All services are suspended.
 
-18
+23
 00:01:03,990 --> 00:01:04,990
 What!?
 
-19
+24
 00:01:05,310 --> 00:01:08,121
 That's outside our jurisdiction, so we don't have much info...
 
-20
+25
 00:01:08,822 --> 00:01:10,588
 Could it be the same incident?
 
-21
+26
 00:01:10,930 --> 00:01:13,430
 If so, that narrows down the possibilities.
 
-22
+27
 00:01:14,750 --> 00:01:19,190
 The transport management network and the information/business network are separated, right?
 
-23
+28
 00:01:20,130 --> 00:01:22,383
 The only things connected to both networks
 
-24
+29
 00:01:22,497 --> 00:01:26,930
 are the authentication server and the update distribution server for terminals.
 
-25
+30
 00:01:27,140 --> 00:01:28,510
 Could those be infected with malware?
 
-26
+31
 00:01:31,230 --> 00:01:32,810
 There's one more possibility.
 
-27
+32
 00:01:33,710 --> 00:01:37,591
 The possibility that an insider is deliberately attacking us.
 
-28
+33
 00:01:39,870 --> 00:01:42,590
 Right... Not something we'd want to hear, but...
 
-29
+34
 00:01:55,740 --> 00:01:56,740
 Logs?
 
-30
+35
 00:01:57,490 --> 00:01:59,020
 Retention periods vary.
 
-31
+36
 00:01:59,975 --> 00:02:01,880
 Some may already be gone.
 
-32
+37
 00:02:02,320 --> 00:02:05,360
 But there may still be important traces remaining.
 
-33
+38
 00:02:06,260 --> 00:02:08,626
 Let's gather and preserve the logs together.
 
-34
+39
 00:02:08,893 --> 00:02:10,900
 CIO Nakafunyu?
 
-35
+40
 00:02:10,975 --> 00:02:12,793
 O-Okay...
 
-36
+41
 00:02:12,993 --> 00:02:15,460
 (Hiroka) Report to the president without Director Katsuragi finding out.
 
-37
+42
 00:02:15,593 --> 00:02:17,560
 (Hiroka) Make sure it goes smoothly.
 
-38
+43
 00:02:17,680 --> 00:02:18,680
 What!?
 
-39
+44
 00:02:18,820 --> 00:02:19,820
 Me!?
 
-40
+45
 00:02:23,060 --> 00:02:25,200
 O-Okay, fine...
 
-41
+46
 00:02:27,865 --> 00:02:30,880
 Um, can I go back to my desk?
 
-42
+47
 00:02:31,898 --> 00:02:34,632
 The atmosphere here is the worst.
 
-43
+48
 00:02:35,140 --> 00:02:36,140
 Wait.
 
-44
+49
 00:02:36,340 --> 00:02:37,380
 Hosono, stay there.
 
-45
+50
 00:02:38,050 --> 00:02:39,920
 Share information with Transport Command.
 
-46
+51
 00:02:41,460 --> 00:02:42,931
 Ugh...
 
-47
+52
 00:02:43,731 --> 00:02:46,640
 Listen. A system isn't just computers.
 
-48
+53
 00:02:47,140 --> 00:02:49,340
 It includes people too.
 
-49
+54
 00:02:49,830 --> 00:02:54,440
 Properly communicating the situation to users is also a vital role for an engineer.
 
-50
+55
 00:02:57,500 --> 00:02:58,688
 Oh, hello.
 
-51
+56
 00:02:58,822 --> 00:03:00,755
 Huh? Who the hell are you?
 
-52
+57
 00:03:01,380 --> 00:03:03,288
 I'm Hosono from the PR Department, System Division.
 
-53
+58
 00:03:03,555 --> 00:03:04,855
 Hah? PR?
 
-54
+59
 00:03:05,240 --> 00:03:06,240
 Hello.
 
-55
+60
 00:03:06,400 --> 00:03:09,588
 It's the System Division, freeloading under the PR Department due to budget constraints.
 
-56
+61
 00:03:10,288 --> 00:03:12,188
 Yeah, I know. What do you want?
 
-57
+62
 00:03:12,880 --> 00:03:14,302
 Sorry for the verbal notice, but
 
-58
+63
 00:03:14,327 --> 00:03:16,746
 I have something urgent to tell everyone.
 
-59
+64
 00:03:23,860 --> 00:03:24,950
 --And that's the current situation.
 
-60
+65
 00:03:25,655 --> 00:03:28,874
 Well, to borrow Director Katsuragi's words,
 
-61
+66
 00:03:28,986 --> 00:03:32,408
 it's basically a "disciplinary action for every employee" kind of situation.
 
-62
+67
 00:03:32,741 --> 00:03:34,474
 Are you sure about this!?
 
-63
+68
 00:03:34,670 --> 00:03:38,250
 Um, you're scaring me, could you lower your tone?
 
-64
+69
 00:03:38,690 --> 00:03:40,150
 ...Are you sure about this?
 
-65
+70
 00:03:40,885 --> 00:03:42,110
 We can't confirm it yet.
 
-66
+71
 00:03:42,990 --> 00:03:46,178
 However, considering what's actually happening,
 
-67
+72
 00:03:46,202 --> 00:03:50,356
 I believe we need to act on the safest possible assumption.
 
-68
+73
 00:03:50,423 --> 00:03:52,290
 Damn... This is terrible...
 
-69
+74
 00:03:53,170 --> 00:03:55,046
 A cyberattack is suspected.
 
-70
+75
 00:03:55,113 --> 00:03:57,630
 The transport management system cannot be trusted.
 
-71
+76
 00:03:58,130 --> 00:03:59,602
 Is that a fair assessment?
 
-72
+77
 00:03:59,646 --> 00:04:00,669
 ...Yes.
 
-73
+78
 00:04:00,694 --> 00:04:02,047
 How long have you known?
 
-74
+79
 00:04:02,190 --> 00:04:04,580
 Since around 9 AM.
 
-75
+80
 00:04:04,605 --> 00:04:06,713
 Why didn't you say something sooner!?
 
-76
+81
 00:04:06,950 --> 00:04:10,710
 Thorough communication! Accident prevention! Compliance with regulations!
 
-77
+82
 00:04:11,430 --> 00:04:12,530
 It's on the back of your badge!
 
-78
+83
 00:04:13,430 --> 00:04:14,430
 I'm sorry.
 
-79
+84
 00:04:16,250 --> 00:04:19,974
 Wait. Whose fault was it that safety wasn't maintained?
 
-80
+85
 00:04:20,108 --> 00:04:22,219
 Why did it come to this?
 
-81
+86
 00:04:28,390 --> 00:04:30,490
 It's all my fault, isn't it?
 
-82
+87
 00:04:31,250 --> 00:04:32,250
 Hey, Yabase.
 
-83
+88
 00:04:33,400 --> 00:04:36,205
 You held back the report because you were afraid of me, right?
 
-84
+89
 00:04:36,355 --> 00:04:40,988
 Uh, well, um...
 
-85
+90
 00:04:42,010 --> 00:04:44,038
 That's part of it...
 
-86
+91
 00:04:44,488 --> 00:04:47,722
 But Director Katsuragi...
 
-87
+92
 00:04:50,050 --> 00:04:51,070
 ...I'm sorry.
 
-88
+93
 00:04:51,430 --> 00:04:52,430
 It was my fault.
 
-89
+94
 00:04:53,350 --> 00:04:56,080
 Thank you for being honest.
 
-90
+95
 00:04:56,447 --> 00:04:58,163
 Everyone, listen up!
 
-91
+96
 00:04:58,420 --> 00:04:59,910
 It is now 11:05 AM.
 
-92
+97
 00:05:00,330 --> 00:05:03,930
 As of this moment, we are treating this as a critical incident.
 
-93
+98
 00:05:05,920 --> 00:05:07,430
 Accidents will happen. That's inevitable.
 
-94
+99
 00:05:07,810 --> 00:05:08,810
 That's just reality.
 
-95
+100
 00:05:09,560 --> 00:05:11,590
 Zero liability accidents. Zero incidents.
 
-96
+101
 00:05:11,890 --> 00:05:13,190
 Those are just targets.
 
-97
+102
 00:05:13,850 --> 00:05:16,570
 A zero achieved through cover-ups or word games is meaningless.
 
-98
+103
 00:05:17,170 --> 00:05:18,833
 What matters most right now
 
-99
+104
 00:05:18,967 --> 00:05:21,400
 is getting our passengers to their destinations safely.
 
-100
+105
 00:05:22,990 --> 00:05:25,970
 I'm the one who caused this situation. It's my responsibility.
 
-101
+106
 00:05:27,380 --> 00:05:29,730
 I played favorites and built walls between us.
 
-102
+107
 00:05:30,665 --> 00:05:32,610
 I consider that itself an incident.
 
-103
+108
 00:05:34,330 --> 00:05:38,550
 Realizing this only now is shameful for someone in the railway industry.
 
-104
+109
 00:05:39,350 --> 00:05:43,690
 But safety can only be achieved with everyone's cooperation.
 
-105
+110
 00:05:44,500 --> 00:05:46,763
 So please, lend me your strength.
 
-106
+111
 00:05:47,097 --> 00:05:48,763
 I'm begging you.
 
-107
+112
 00:05:51,950 --> 00:05:54,350
 At that moment, everyone remembered.
 
-108
+113
 00:05:55,980 --> 00:05:58,130
 General Rules, Accident Prevention:
 
-109
+114
 00:05:58,705 --> 00:06:02,384
 "All employees shall cooperate as one in the prevention of accidents,
 
-110
+115
 00:06:02,568 --> 00:06:06,217
 and shall ensure that no harm comes to passengers or the public,
 
-111
+116
 00:06:06,242 --> 00:06:09,251
 giving their utmost effort to this end."
 
-112
+117
 00:06:09,420 --> 00:06:12,310
 Today is the day to show what our training has prepared us for.
 
-113
+118
 00:06:13,960 --> 00:06:17,530
 Everyone, follow the emergency procedures manual.
 
-114
+119
 00:06:17,690 --> 00:06:21,610
 If there's any unexpected situation or sign of danger, contact me immediately.
 
-115
+120
 00:06:23,865 --> 00:06:25,250
 False alarms are fine.
 
-116
+121
 00:06:25,472 --> 00:06:27,755
 Anyone who prevents an accident before it happens,
 
-117
+122
 00:06:27,840 --> 00:06:29,838
 anyone who contributes to damage reduction--
 
-118
+123
 00:06:29,863 --> 00:06:35,821
 no matter what Katsuragi says, I will officially commend them under my authority.
 
-119
+124
 00:06:36,005 --> 00:06:37,288
 Understood!?
 
-120
+125
 00:06:37,610 --> 00:06:38,610
 Yes, sir!
 
-121
+126
 00:06:39,770 --> 00:06:40,770
 Hey, Tsuruga.
 
-122
+127
 00:06:41,050 --> 00:06:43,370
 I'm appointing you as incident recorder.
 
-123
+128
 00:06:44,010 --> 00:06:45,010
 Begin recording.
 
-124
+129
 00:06:45,210 --> 00:06:49,790
 Understood, beginning recording.
 What about video documentation?
 
-125
+130
 00:06:50,770 --> 00:06:52,210
 There happens to be a camera over there.
 
-126
+131
 00:06:53,110 --> 00:06:54,330
 Request their cooperation.
 
-127
+132
 00:06:55,213 --> 00:06:56,780
 What!?
 
-128
+133
 00:06:57,810 --> 00:06:59,296
 Hey, Yamaguchi.
 
-129
+134
 00:06:59,680 --> 00:07:06,138
 Per the manual, make a preliminary phone report to
 the Risk Management Committee and the Kinki Transport Bureau's Railway Safety Division.
 
-130
+135
 00:07:07,230 --> 00:07:10,670
 The Transport Bureau--it'll be the usual guy answering the phone.
 
-131
+136
 00:07:10,990 --> 00:07:13,730
 He asks a lot of questions, so have your answers ready.
 
-132
+137
 00:07:14,150 --> 00:07:19,690
 Roger. By the way, is this classified as a railway operations accident
 or a service disruption?
 
-133
+138
 00:07:20,410 --> 00:07:21,990
 Too unprecedented to say.
 
-134
+139
 00:07:22,990 --> 00:07:28,650
 "Disrupts mainline operations for over three hours"
 --wouldn't it be both?
 
-135
+140
 00:07:29,563 --> 00:07:32,663
 Then for our reporting basis,
 
-136
+141
 00:07:32,863 --> 00:07:39,870
 we'll cite the Railway Accident Reporting Rules,
 Article 5, Paragraph 1, Item 5, and Paragraph 2, Item 1.
 
-137
+142
 00:07:40,440 --> 00:07:42,130
 There's also a suspected cyberattack.
 
-138
+143
 00:07:42,510 --> 00:07:45,490
 Add "deemed particularly exceptional" as well.
 
-139
+144
 00:07:46,860 --> 00:07:48,838
 Root cause analysis can wait.
 
-140
+145
 00:07:49,005 --> 00:07:51,088
 How many hours to restore?
 
-141
+146
 00:07:51,250 --> 00:07:52,821
 I don't know.
 
-142
+147
 00:07:53,110 --> 00:07:57,288
 We can't even begin restoration
 without first identifying the virus.
 
-143
+148
 00:07:58,430 --> 00:08:02,230
 Worst case, we'll have to set up the entire system from scratch.
 
-144
+149
 00:08:02,990 --> 00:08:07,113
 In that case, the earliest we could restore would be tomorrow's first train.
 
-145
+150
 00:08:07,480 --> 00:08:09,513
 If it takes longer, a full week...
 
-146
+151
 00:08:09,931 --> 00:08:11,805
 Understood.
 
-147
+152
 00:08:11,938 --> 00:08:14,055
 Suspended until tomorrow morning!?
 
-148
+153
 00:08:14,310 --> 00:08:15,871
 Like hell. Don't be stupid.
 
-149
+154
 00:08:16,055 --> 00:08:17,872
 Substitute block signaling.
 
-150
+155
 00:08:17,938 --> 00:08:20,350
 Substitute block signaling!? On the entire line!?
 
-151
+156
 00:08:21,310 --> 00:08:22,805
 Seriously...
 
-152
+157
 00:08:23,005 --> 00:08:24,472
 (Managura) Dead serious.
 
-153
+158
 00:08:24,670 --> 00:08:25,670
 Five hours.
 
-154
+159
 00:08:26,200 --> 00:08:27,750
 I'll buy you five hours.
 
-155
+160
 00:08:28,370 --> 00:08:29,370
 That's the limit.
 
-156
+161
 00:08:29,980 --> 00:08:34,463
 Get at least the automatic block signaling and CTC back before the morning rush.
 
-157
+162
 00:08:36,329 --> 00:08:40,010
 Nnngh!
 
-158
+163
 00:08:43,879 --> 00:08:45,946
 Meow~
 
-159
+164
 00:08:48,410 --> 00:08:49,905
 Stationmaster Tsukita!
 
-160
+165
 00:08:51,280 --> 00:08:52,280
 Are you all right!?
 
-161
+166
 00:08:53,190 --> 00:08:55,420
 We're resuming operations using the pilot communication system.
 
-162
+167
 00:10:20,350 --> 00:10:24,820
 This is Transport Command.
 Attention all trains operating within our territory.
 
-163
+168
 00:10:25,140 --> 00:10:31,000
 With the restoration of automatic block signals,
 we will be switching back from substitute block to automatic block sequentially--
 
-164
+169
 00:10:32,046 --> 00:10:36,550
 The signals are fixed, so why are we stopped again?
 
-165
+170
 00:10:36,802 --> 00:10:42,616
 Only the signals between stations have been restored.
 The station signals are still down.
 
-166
+171
 00:10:46,245 --> 00:10:50,888
 If only the train on the opposite platform would depart...
 
-167
+172
 00:10:50,913 --> 00:10:54,030
 But they're fumbling with manual procedures over there...
 
-168
+173
 00:10:55,780 --> 00:10:58,440
 Th-Th-This is bad, driver!
 
-169
+174
 00:10:58,940 --> 00:11:03,480
 The following train already caught up to us!
 
-170
+175
 00:11:03,481 --> 00:11:04,481
 What!?
 
-171
+176
 00:11:10,000 --> 00:11:13,777
 Transport Commaaaaand!
 
-172
+177
 00:11:15,207 --> 00:11:16,207
 A deadlock?
 
-173
+178
 00:11:16,675 --> 00:11:18,348
 Yes, I'm sorry.
 
-174
+179
 00:11:18,703 --> 00:11:20,704
 During the block system changeover,
 
-175
+180
 00:11:20,729 --> 00:11:25,163
 a misidentification of train positions led to incorrect departure orders,
 
-176
+181
 00:11:25,304 --> 00:11:28,229
 resulting in trains unable to move.
 
-177
+182
 00:11:28,445 --> 00:11:32,780
 If at least the train position display had been restored,
 this wouldn't have happened...
 
-178
+183
 00:11:33,900 --> 00:11:35,700
 It's a deadlock!
 
-179
+184
 00:11:35,800 --> 00:11:36,800
 Hm?
 
-180
+185
 00:11:37,599 --> 00:11:39,917
 A deadlock!? At which station?
 
-181
+186
 00:11:40,176 --> 00:11:42,700
 No, I mean inside the system.
 
-182
+187
 00:11:43,890 --> 00:11:46,238
 According to the system developer,
 
-183
+188
 00:11:46,372 --> 00:11:50,722
 it seems a deadlock is occurring in the operations rescheduling module.
 
-184
+189
 00:11:51,900 --> 00:11:54,880
 Why would a deadlock happen inside the system?
 
-185
+190
 00:11:55,620 --> 00:11:57,760
 Deadlocks are a train thing.
 
-186
+191
 00:11:58,860 --> 00:11:59,880
 Well actually,
 
-187
+192
 00:12:00,540 --> 00:12:02,300
 they happen inside systems too.
 
-188
+193
 00:12:03,513 --> 00:12:05,863
 To prevent collisions, trains
 
-189
+194
 00:12:05,955 --> 00:12:09,979
 are controlled by signals so only one train
 can be in a section at a time, right?
 
-190
+195
 00:12:10,365 --> 00:12:11,860
 Yeah, that's block signaling.
 
-191
+196
 00:12:13,420 --> 00:12:17,000
 What happens if a dispatch error puts trains going opposite directions together?
 
-192
+197
 00:12:17,610 --> 00:12:20,260
 They block each other's path and can't move.
 
-193
+198
 00:12:20,750 --> 00:12:21,940
 That's a deadlock.
 
-194
+199
 00:12:23,380 --> 00:12:25,830
 In fact, data inside a system
 
-195
+200
 00:12:25,880 --> 00:12:31,735
 is also controlled so only one person can edit it at a time,
 to prevent data corruption.
 
-196
+201
 00:12:31,760 --> 00:12:32,940
 Same as block signaling.
 
-197
+202
 00:12:34,370 --> 00:12:37,680
 And if data processing requests in different orders get mixed together?
 
-198
+203
 00:12:38,080 --> 00:12:40,340
 A deadlock occurs.
 
-199
+204
 00:12:41,430 --> 00:12:42,908
 So this trouble is basically
 
-200
+205
 00:12:42,932 --> 00:12:45,628
 like a deadlock at a single station
 
-201
+206
 00:12:45,652 --> 00:12:48,220
 bringing down the entire line?
 
-202
+207
 00:12:49,160 --> 00:12:50,830
 Yes, most likely.
 
-203
+208
 00:12:51,380 --> 00:12:56,640
 With this few terminals, it normally shouldn't be possible
 to take down the system.
 
-204
+209
 00:12:57,070 --> 00:12:59,167
 That's what puzzled me until now.
 
-205
+210
 00:12:59,570 --> 00:13:02,260
 But with a deadlock, even two terminals can do it.
 
-206
+211
 00:13:03,100 --> 00:13:08,021
 But the operations rescheduling module is so resource-heavy we banned its use.
 
-207
+212
 00:13:08,188 --> 00:13:11,005
 Who would be using that thing?
 
-208
+213
 00:13:11,370 --> 00:13:15,146
 Whether it's a DoS attack or just a bug--that's the question.
 
-209
+214
 00:13:15,813 --> 00:13:17,247
 Dos...koi!?
 
-210
+215
 00:13:17,840 --> 00:13:22,260
 We detected suspicious traffic resembling a DoS attack from your IP address.
 
-211
+216
 00:13:25,120 --> 00:13:27,413
 DoS attack.
 
-212
+217
 00:13:27,730 --> 00:13:29,963
 DoS attack.
 
-213
+218
 00:13:30,346 --> 00:13:31,963
 Dos...koi?
 
-214
+219
 00:13:32,113 --> 00:13:35,013
 (Sumo wrestler) DOSUKOI!
 
-215
+220
 00:15:15,207 --> 00:15:18,273
 Regarding this incident, security experts say--
 
-216
+221
 00:15:18,364 --> 00:15:21,138
 Leave it to me, Akane!
 
-217
+222
 00:15:21,207 --> 00:15:24,740
 Yes, it's the team that handles security incidents.
 
-218
+223
 00:15:24,898 --> 00:15:26,273
 What did you say!?
 
-219
+224
 00:15:26,298 --> 00:15:28,940
 Do you have any idea how much damage this caused!?
 
-220
+225
 00:15:28,965 --> 00:15:30,140
 Grr!
